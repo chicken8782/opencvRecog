@@ -1,0 +1,577 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="verify-v1" content="ukk7iWS8QHWugyA4S8tNregGcXXH+Ul885k4oC0+UsE=" />
+<title>Marlex Systems — Informática, Ciencia y Tecnología</title>
+<link rel="alternate" type="application/rss+xml" title="RSS de Marlex Systems" href="http://feeds.feedburner.com/MarlexSystems" />
+<link rel="pingback" href="http://www.marlex.org/xmlrpc.php" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.marlex.org/xmlrpc.php?rsd">
+<link rel="shortcut icon" href="/favicon.ico" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta property="og:site_name" content="Marlex Systems" />
+<meta property="fb:admins" content="613382355" />
+<link rel="stylesheet" href="http://www.marlex.org/wp-content/themes/ms4/style.css" media="screen" />
+<link href="http://plus.google.com/102700906224132222810" rel="publisher" />
+<script type="text/javascript">
+	window.___gcfg = {lang: 'es'};
+	(function()
+		{var po = document.createElement("script");
+		po.type = "text/javascript"; po.async = true;po.src = "http://apis.google.com/js/plusone.js";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(po, s);
+	})();
+</script>
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@marlexsystems">
+<meta name="twitter:site" content="@marlexsystems">
+<meta property="og:title" content="Marlex Systems">
+<meta property="og:description" content="Marlex Systems es un weblog de Informática, Ciencia y Tecnología.">
+<meta property="og:image" content="https://g.twimg.com/Twitter_logo_blue.png">
+
+
+<link rel="author" href="https://plus.google.com/+MarlexOrg" />
+<link rel="publisher" href="https://plus.google.com/+MarlexOrg" />
+<meta name="description" content="MarlexSystems es un portal de noticias de Informática, Ciencia y Tecnología que cubre los últimos acontecimientos en web 2.0, nuevas tecnologías y lo mejor de la ciencia." />
+<meta name="keywords" content="informatica, ciencia, tecnologia, noticias de informatica, noticias de ciencia, noticias de tecnologia, trucos, aplicaciones, ganar dinero, seo y posicionamiento" />
+<link rel='next' href='http://www.marlex.org/page/2/' />
+<link rel="canonical" href="http://www.marlex.org/" />
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.marlex.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jetpack_css-css' href='http://www.marlex.org/wp-content/plugins/jetpack/css/jetpack.css?ver=5.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.marlex.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.marlex.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.marlex.org/wp-json/' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+</head>
+<body>
+
+<script type="text/javascript" id="wau_scr_4b5ae8b6">
+	    var wau_p = wau_p || []; wau_p.push(["9qwn", "4b5ae8b6", false]);
+	    (function() {
+	        var s=document.createElement("script"); s.type="text/javascript";
+	        s.async=true; s.src="http://widgets.amung.us/a_pro.js";
+	        document.getElementsByTagName("head")[0].appendChild(s);
+	    })();
+	</script>
+<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-1456126-16']);
+	  _gaq.push(['_trackPageview']);
+	  _gaq.push(['_trackPageLoadTime']);
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('http:' == document.location.protocol ? 'http://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+<script type="text/JavaScript">
+		if (parent.frames.length > 0) top.location.replace(document.location);
+	</script>
+
+<div id="header">
+<div id="headerlogo">
+<a href="/"><img src="/wp-content/themes/ms4/img/logo.png" id="imglogo" width="472" height="96" alt="Marlex Systems &raquo; Inform&aacute;tica, Ciencia y Tecnolog&iacute;a" /></a>
+</div>
+</div>
+<div id="subhead">
+<div id="subhc">
+<span id="breadcrumb">
+<strong>Bienvenido a MarlexSystems!</strong> Disfruta de las noticias de inform&aacute;tica, ciencia y tecnolog&iacute;a...
+</span>
+<div id="btn">
+<span class="irss"><a href="http://feeds.feedburner.com/marlexsystems">R</a></span>
+<span class="itwitter"><a href="http://twitter.com/marlexsystems">T</a></span>
+<span class="ifacebook"><a href="http://www.facebook.com/marlexsystems">F</a></span>
+</div>
+</div>
+</div>
+<div id="page">
+<div id="bar-ad">
+<div id="ad-728">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2566128145493097" data-ad-slot="8201655561"></ins>
+<script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+</div>
+<div id="site-promo">
+</div>
+</div>
+<div id="main">
+<div id="featured">
+<h1>
+<a href="http://www.marlex.org/vicepresidente-samsung-sentenciado-cinco-anos-prision-soborno-perjurio/17089/">
+Vicepresidente de Samsung es sentenciado a cinco años de prisión por soborno y perjurio </a>
+</h1>
+<p><strong>Lee Jae-yong</strong>, vicepresidente de <strong>Samsung</strong>, ha sido sentenciado por un tribunal surcoreano a <strong>cinco años de cárcel por sobornos, malversación de fondos y perjurio</strong>. De acuerdo a lo informado por <strong>The New York Times</strong>,  Lee y otros cuatro ejecutivos de Samsung fueron condenados el viernes por pagar 7,8 millones de dólares en sobornos y otros incentivos para asegurar que la ex presidente del país, <strong>Park Geun-hye</strong> (ahora destituida), apoyara un acuerdo corporativo que fortaleció el control de Lee sobre <strong>Samsung Electronics</strong>.</p>
+<p><img data-attachment-id="17096" data-permalink="http://www.marlex.org/vicepresidente-samsung-sentenciado-cinco-anos-prision-soborno-perjurio/17089/samsung2/" data-orig-file="https://i1.wp.com/www.marlex.org/wp-content/uploads/2017/08/samsung2.jpeg?fit=1200%2C800" data-orig-size="1200,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="samsung2" data-image-description="&lt;p&gt;samsung2&lt;/p&gt;
+" data-medium-file="https://i1.wp.com/www.marlex.org/wp-content/uploads/2017/08/samsung2.jpeg?fit=1200%2C800" data-large-file="https://i1.wp.com/www.marlex.org/wp-content/uploads/2017/08/samsung2.jpeg?fit=500%2C333" class="aligncenter size-large wp-image-17096" src="https://i1.wp.com/www.marlex.org/wp-content/uploads/2017/08/samsung2.jpeg?resize=500%2C333" alt="samsung2" width="500" height="333" srcset="https://i1.wp.com/www.marlex.org/wp-content/uploads/2017/08/samsung2.jpeg?resize=500%2C333 500w, https://i1.wp.com/www.marlex.org/wp-content/uploads/2017/08/samsung2.jpeg?resize=768%2C512 768w, https://i1.wp.com/www.marlex.org/wp-content/uploads/2017/08/samsung2.jpeg?w=1200 1200w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" /></p>
+<p class="postmeta">
+<span class="comment">
+<a href="http://www.marlex.org/vicepresidente-samsung-sentenciado-cinco-anos-prision-soborno-perjurio/17089/#respond"><span class="dsq-postid" data-dsqidentifier="17089 http://www.marlex.org/?p=17089">¡Escribe un comentario!</span></a> </span>
+<span class="slink">
+<a href="http://www.marlex.org/vicepresidente-samsung-sentenciado-cinco-anos-prision-soborno-perjurio/17089/">Continuar leyendo...</a>
+</span>
+</p>
+<div class="line sxf"></div>
+</div>
+<div class="postmini">
+<div class="thead">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2566128145493097" data-ad-slot="9678388760"></ins>
+<script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+</div>
+</div>
+<div class="line sxf"></div>
+<div class="postmini">
+<img width="130" height="130" src="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/Music-1.jpg?resize=130%2C130" class="miniimg wp-post-image" alt="Listening music" srcset="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/Music-1.jpg?resize=200%2C200 200w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/Music-1.jpg?resize=130%2C130 130w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/Music-1.jpg?resize=140%2C140 140w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/Music-1.jpg?zoom=2&amp;resize=130%2C130 260w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/Music-1.jpg?zoom=3&amp;resize=130%2C130 390w" sizes="(max-width: 130px) 100vw, 130px" data-attachment-id="17071" data-permalink="http://www.marlex.org/pegan-algunas-canciones/17066/listening-music/" data-orig-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/Music-1.jpg?fit=1685%2C1128" data-orig-size="1685,1128" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;10&quot;,&quot;credit&quot;:&quot;Ivan Bliznetsov - Fotolia&quot;,&quot;camera&quot;:&quot;FinePix S5Pro&quot;,&quot;caption&quot;:&quot;Pretty young girl listening music&quot;,&quot;created_timestamp&quot;:&quot;1240851180&quot;,&quot;copyright&quot;:&quot;Ivan Bliznetsov - Fotolia&quot;,&quot;focal_length&quot;:&quot;58&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;Listening music&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Listening music" data-image-description="&lt;p&gt;Listening music&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/Music-1.jpg?fit=1685%2C1128" data-large-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/Music-1.jpg?fit=500%2C335" /> <h2><a href="http://www.marlex.org/pegan-algunas-canciones/17066/" rel="bookmark" title="¿Por qué se nos &#8220;pegan&#8221; algunas canciones?">¿Por qué se nos &#8220;pegan&#8221; algunas canciones?</a></h2>
+<p><strong>14 de agosto del 2017</strong> &mdash; “Deees… paaa… ci-to” Iba a postear el estribillo completo de este hit, pero imaginé que sólo esa palabra es suficiente para que me odien. El fenómeno de la “canción pegadiza” no es nuevo. Son varios los estudios que se han realizado a través de los años y hoy citaremos varios de ellos para tratar de explicar...
+<a href="http://www.marlex.org/pegan-algunas-canciones/17066/" class="rmlink">Más &raquo;</a></p>
+<div class="clear"></div>
+</div>
+<div class="line sxf"></div>
+<div class="postmini">
+<img width="130" height="130" src="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/universal-black.jpg?resize=130%2C130" class="miniimg wp-post-image" alt="universal-black" srcset="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/universal-black.jpg?resize=200%2C200 200w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/universal-black.jpg?resize=130%2C130 130w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/universal-black.jpg?resize=140%2C140 140w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/universal-black.jpg?zoom=2&amp;resize=130%2C130 260w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/universal-black.jpg?zoom=3&amp;resize=130%2C130 390w" sizes="(max-width: 130px) 100vw, 130px" data-attachment-id="17060" data-permalink="http://www.marlex.org/universal-music-demandada-pirateria/17059/universal-black/" data-orig-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/universal-black.jpg?fit=1890%2C945" data-orig-size="1890,945" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="universal-black" data-image-description="&lt;p&gt;universal-black&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/universal-black.jpg?fit=1890%2C945" data-large-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/universal-black.jpg?fit=500%2C250" /> <h2><a href="http://www.marlex.org/universal-music-demandada-pirateria/17059/" rel="bookmark" title="Universal Music demandada por&#8230; ¿piratería?">Universal Music demandada por&#8230; ¿piratería?</a></h2>
+<p><strong>11 de agosto del 2017</strong> &mdash; Universal Music Group está siendo demandado por HypeForType, que acusa a la discográfica de usar copias &#8220;piratas&#8221; de sus fuentes para el logo, obras de arte, material de promoción y merchandising de la popular banda británica The Vamps. El creador de la fuente está buscando una indemnización mínima de 1.25 millones de dólares en daños....
+<a href="http://www.marlex.org/universal-music-demandada-pirateria/17059/" class="rmlink">Más &raquo;</a></p>
+<div class="clear"></div>
+</div>
+<div class="line sxf"></div>
+<div class="postmini">
+<img width="130" height="130" src="https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/08/Blackview-BV8000-Pro-colors.jpg?resize=130%2C130" class="miniimg wp-post-image" alt="Blackview BV8000 Pro colors" srcset="https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/08/Blackview-BV8000-Pro-colors.jpg?resize=200%2C200 200w, https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/08/Blackview-BV8000-Pro-colors.jpg?resize=130%2C130 130w, https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/08/Blackview-BV8000-Pro-colors.jpg?resize=140%2C140 140w, https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/08/Blackview-BV8000-Pro-colors.jpg?zoom=2&amp;resize=130%2C130 260w, https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/08/Blackview-BV8000-Pro-colors.jpg?zoom=3&amp;resize=130%2C130 390w" sizes="(max-width: 130px) 100vw, 130px" data-attachment-id="17049" data-permalink="http://www.marlex.org/blackview-bv8000-movil-prueba-casi-todo/17047/blackview-bv8000-colors/" data-orig-file="https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/08/Blackview-BV8000-Pro-colors.jpg?fit=1920%2C950" data-orig-size="1920,950" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Blackview BV8000 Pro colors" data-image-description="&lt;p&gt;Blackview BV8000 Pro colors&lt;/p&gt;
+" data-medium-file="https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/08/Blackview-BV8000-Pro-colors.jpg?fit=1920%2C950" data-large-file="https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/08/Blackview-BV8000-Pro-colors.jpg?fit=500%2C247" /> <h2><a href="http://www.marlex.org/blackview-bv8000-movil-prueba-casi-todo/17047/" rel="bookmark" title="Blackview BV8000 Pro, un móvil a prueba de casi todo">Blackview BV8000 Pro, un móvil a prueba de casi todo</a></h2>
+<p><strong>11 de agosto del 2017</strong> &mdash; Hoy en día es difícil encontrar un móvil con buenas especificaciones a un precio razonable. Los buques insignia de las principales compañías del mercado, Samsung, Apple o LG por nombrar las más importantes, tienen dispositivos con lo último en hardware, pero a precios que están por sobre los 800 dólares, una suma que no está...
+<a href="http://www.marlex.org/blackview-bv8000-movil-prueba-casi-todo/17047/" class="rmlink">Más &raquo;</a></p>
+<div class="clear"></div>
+</div>
+<div class="line sxf"></div>
+<div class="postmini">
+<img width="130" height="130" src="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/06/DragonBallzFighter.png?resize=130%2C130" class="miniimg wp-post-image" alt="" srcset="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/06/DragonBallzFighter.png?resize=200%2C200 200w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/06/DragonBallzFighter.png?resize=130%2C130 130w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/06/DragonBallzFighter.png?resize=140%2C140 140w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/06/DragonBallzFighter.png?zoom=2&amp;resize=130%2C130 260w" sizes="(max-width: 130px) 100vw, 130px" data-attachment-id="17034" data-permalink="http://www.marlex.org/dragon-ball-fighter-similitudes-manga/17031/dragonballzfighter/" data-orig-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/06/DragonBallzFighter.png?fit=327%2C412" data-orig-size="327,412" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="DragonBallzFighter" data-image-description="" data-medium-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/06/DragonBallzFighter.png?fit=327%2C412" data-large-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/06/DragonBallzFighter.png?fit=327%2C412" /> <h2><a href="http://www.marlex.org/dragon-ball-fighter-similitudes-manga/17031/" rel="bookmark" title="Dragon Ball Fighter Z y sus similitudes con el Manga">Dragon Ball Fighter Z y sus similitudes con el Manga</a></h2>
+<p><strong>21 de junio del 2017</strong> &mdash; Siendo un fanático de la saga Dragon Ball Z por lo general deseas tener un contenido que siempre esté superando a todo lo que conocemos hasta este momento, tanto en efectos visuales, sonido e historia, pero manteniendo mucho de lo que ya conoces lo cual es la esencia de la serie en si. Los movimientos,...
+<a href="http://www.marlex.org/dragon-ball-fighter-similitudes-manga/17031/" class="rmlink">Más &raquo;</a></p>
+<div class="clear"></div>
+</div>
+<div class="line sxf"></div>
+<div class="postmini">
+<img width="130" height="130" src="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Windows-00.png?resize=130%2C130" class="miniimg wp-post-image" alt="Windows 00" srcset="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Windows-00.png?resize=200%2C200 200w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Windows-00.png?resize=130%2C130 130w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Windows-00.png?resize=140%2C140 140w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Windows-00.png?zoom=2&amp;resize=130%2C130 260w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Windows-00.png?zoom=3&amp;resize=130%2C130 390w" sizes="(max-width: 130px) 100vw, 130px" data-attachment-id="17015" data-permalink="http://www.marlex.org/como-optimizar-windows-morir-intento/17014/windows-16/" data-orig-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Windows-00.png?fit=1024%2C538" data-orig-size="1024,538" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Windows 00" data-image-description="&lt;p&gt;Windows 00&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Windows-00.png?fit=1024%2C538" data-large-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Windows-00.png?fit=500%2C263" /> <h2><a href="http://www.marlex.org/como-optimizar-windows-morir-intento/17014/" rel="bookmark" title="Cómo optimizar Windows 10 y no morir en el intento">Cómo optimizar Windows 10 y no morir en el intento</a></h2>
+<p><strong>20 de abril del 2017</strong> &mdash; Ya les había hablado de los beneficios de usar alguna distribución de Linux para aprovechar de mejor forma los recursos, a veces escasos, de nuestros equipos. Linux es, sin lugar a dudas, LA opción a la hora de elegir un sistema operativo si lo que queremos es usar software sin gastar un céntimo y mejorar...
+<a href="http://www.marlex.org/como-optimizar-windows-morir-intento/17014/" class="rmlink">Más &raquo;</a></p>
+<div class="clear"></div>
+</div>
+<div class="line sxf"></div>
+<div class="postmini">
+<img width="130" height="130" src="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/sele_linuxmint.png?resize=130%2C130" class="miniimg wp-post-image" alt="sele_linuxmint" srcset="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/sele_linuxmint.png?resize=200%2C200 200w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/sele_linuxmint.png?resize=130%2C130 130w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/sele_linuxmint.png?resize=140%2C140 140w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/sele_linuxmint.png?zoom=2&amp;resize=130%2C130 260w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/sele_linuxmint.png?zoom=3&amp;resize=130%2C130 390w" sizes="(max-width: 130px) 100vw, 130px" data-attachment-id="16995" data-permalink="http://www.marlex.org/linux-mint-sistema-operativo-apiado-laptop/16994/sele_linuxmint/" data-orig-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/sele_linuxmint.png?fit=1920%2C1080" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="sele_linuxmint" data-image-description="&lt;p&gt;sele_linuxmint&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/sele_linuxmint.png?fit=1920%2C1080" data-large-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/sele_linuxmint.png?fit=500%2C281" /> <h2><a href="http://www.marlex.org/linux-mint-sistema-operativo-apiado-laptop/16994/" rel="bookmark" title="Linux Mint, el sistema operativo que se apiadó de mi laptop">Linux Mint, el sistema operativo que se apiadó de mi laptop</a></h2>
+<p><strong>8 de abril del 2017</strong> &mdash; Hasta hace algunas semanas pensaba que mi Ultrabook Lenovo estaba pasando a la historia –corta historia, ya que estamos– de los dispositivos electrónicos de hoy. Porque, si bien es cierto, aunque cuides un equipo como si de un objeto sagrado se tratase, ya sea un PC, smartphone, televisor LED, etc., su vida útil tiene los...
+<a href="http://www.marlex.org/linux-mint-sistema-operativo-apiado-laptop/16994/" class="rmlink">Más &raquo;</a></p>
+<div class="clear"></div>
+</div>
+<div class="line sxf"></div>
+<div class="postmini">
+<img width="130" height="130" src="https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/04/pyramid.jpg?resize=130%2C130" class="miniimg wp-post-image" alt="pyramid" srcset="https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/04/pyramid.jpg?resize=200%2C200 200w, https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/04/pyramid.jpg?resize=130%2C130 130w, https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/04/pyramid.jpg?resize=140%2C140 140w, https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/04/pyramid.jpg?zoom=2&amp;resize=130%2C130 260w, https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/04/pyramid.jpg?zoom=3&amp;resize=130%2C130 390w" sizes="(max-width: 130px) 100vw, 130px" data-attachment-id="16987" data-permalink="http://www.marlex.org/descubre-egipto-piramide-unos-anos-antiguedad/16986/pyramid/" data-orig-file="https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/04/pyramid.jpg?fit=660%2C371" data-orig-size="660,371" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="pyramid" data-image-description="&lt;p&gt;pyramid&lt;/p&gt;
+" data-medium-file="https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/04/pyramid.jpg?fit=660%2C371" data-large-file="https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/04/pyramid.jpg?fit=500%2C281" /> <h2><a href="http://www.marlex.org/descubre-egipto-piramide-unos-anos-antiguedad/16986/" rel="bookmark" title="Descubren en Egipto una pirámide de unos 3.700 años de antigüedad">Descubren en Egipto una pirámide de unos 3.700 años de antigüedad</a></h2>
+<p><strong>4 de abril del 2017</strong> &mdash; Los restos de la misteriosa edificación fueron descubiertos al sur de El Cairo, en la necrópolis real de Dahshur, y fueron presentados por el Ministerio de Antigüedades egipcio. Las autoridades mostraron las imágenes de un pasillo interior y un bloque grabado con 10 líneas de jeroglíficos, las que se encuentran en buen estado, a pesar...
+<a href="http://www.marlex.org/descubre-egipto-piramide-unos-anos-antiguedad/16986/" class="rmlink">Más &raquo;</a></p>
+<div class="clear"></div>
+</div>
+<div class="line sxf"></div>
+<div class="postmini">
+<img width="130" height="130" src="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Bixby.jpg?resize=130%2C130" class="miniimg wp-post-image" alt="Bixby" srcset="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Bixby.jpg?resize=200%2C200 200w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Bixby.jpg?resize=130%2C130 130w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Bixby.jpg?resize=140%2C140 140w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Bixby.jpg?zoom=2&amp;resize=130%2C130 260w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Bixby.jpg?zoom=3&amp;resize=130%2C130 390w" sizes="(max-width: 130px) 100vw, 130px" data-attachment-id="16981" data-permalink="http://www.marlex.org/puedes-instalar-bixby-dispositivo-samsung-nougat/16979/bixby/" data-orig-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Bixby.jpg?fit=1200%2C675" data-orig-size="1200,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Bixby" data-image-description="&lt;p&gt;Bixby&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Bixby.jpg?fit=1200%2C675" data-large-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Bixby.jpg?fit=500%2C281" /> <h2><a href="http://www.marlex.org/puedes-instalar-bixby-dispositivo-samsung-nougat/16979/" rel="bookmark" title="Ya puedes instalar Bixby en tu dispositivo Samsung con Nougat">Ya puedes instalar Bixby en tu dispositivo Samsung con Nougat</a></h2>
+<p><strong>3 de abril del 2017</strong> &mdash; Faltaba más. No ha pasado ni una semana desde el lanzamiento del esperado Samsung Galaxy S8, y ya están para descarga algunas de sus aplicaciones, entre ellas el Launcher y el nuevo Asistente, Bixby. Te mostramos cómo tenerlos en tu Samsung....
+<a href="http://www.marlex.org/puedes-instalar-bixby-dispositivo-samsung-nougat/16979/" class="rmlink">Más &raquo;</a></p>
+<div class="clear"></div>
+</div>
+<div class="line sxf"></div>
+<div class="postmini">
+<img width="130" height="130" src="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/messages.jpg?resize=130%2C130" class="miniimg wp-post-image" alt="messages" srcset="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/messages.jpg?resize=200%2C200 200w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/messages.jpg?resize=130%2C130 130w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/messages.jpg?resize=140%2C140 140w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/messages.jpg?zoom=2&amp;resize=130%2C130 260w, https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/messages.jpg?zoom=3&amp;resize=130%2C130 390w" sizes="(max-width: 130px) 100vw, 130px" data-attachment-id="16976" data-permalink="http://www.marlex.org/nuevo-sistema-mensajeria-internet-viene-reemplazar/16975/messages-2/" data-orig-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/messages.jpg?fit=800%2C571" data-orig-size="800,571" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="messages" data-image-description="&lt;p&gt;messages&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/messages.jpg?fit=800%2C571" data-large-file="https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/messages.jpg?fit=500%2C357" /> <h2><a href="http://www.marlex.org/nuevo-sistema-mensajeria-internet-viene-reemplazar/16975/" rel="bookmark" title="RCS, el nuevo sistema de mensajería sin internet que viene a reemplazar a los SMS">RCS, el nuevo sistema de mensajería sin internet que viene a reemplazar a los SMS</a></h2>
+<p><strong>2 de abril del 2017</strong> &mdash; WhatsApp es el rey de la mensajería, muy a mi pesar, debo decirlo, ya que no me gusta el rumbo que ha tomado. Si a día de hoy aún lo sigo usando, es sólo porque en el trabajo todos lo tienen y lo usan a full, pero si logro al menos hacerles cambiarse a Telegram,...
+<a href="http://www.marlex.org/nuevo-sistema-mensajeria-internet-viene-reemplazar/16975/" class="rmlink">Más &raquo;</a></p>
+<div class="clear"></div>
+</div>
+<div class="line sxf"></div>
+<div id="pagination">
+<a href="http://www.marlex.org/page/2/"><span id="pnext">P&aacute;gina Siguiente &raquo;</span></a> <div class="clear"></div>
+</div>
+</div>
+<div id="sids">
+<div class="siblock">
+<div class="sititle"><span class="sihd strends">Destacadas</span></div>
+<div class="sicontent">
+<div class="hiringpost">
+<div class="hiring_item" style="background: url('https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/samsung.jpg?resize=140%2C140') no-repeat; background-size: cover">
+<div class="hiring_desc"><a class="hirtitle" href="http://www.marlex.org/vicepresidente-samsung-sentenciado-cinco-anos-prision-soborno-perjurio/17089/" title="Vicepresidente de Samsung es sentenciado a cinco años de prisión por soborno y perjurio">Vicepresidente de Samsung es sentenciado a cinco años de prisión por soborno y perjurio</a></div>
+</div>
+<div class="line clear"></div>
+</div>
+<div class="hiringpost">
+<div class="hiring_item" style="background: url('https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/Music-1.jpg?resize=140%2C140') no-repeat; background-size: cover">
+<div class="hiring_desc"><a class="hirtitle" href="http://www.marlex.org/pegan-algunas-canciones/17066/" title="¿Por qué se nos &#8220;pegan&#8221; algunas canciones?">¿Por qué se nos &#8220;pegan&#8221; algunas canciones?</a></div>
+</div>
+<div class="line clear"></div>
+</div>
+<div class="hiringpost">
+<div class="hiring_item" style="background: url('https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/08/universal-black.jpg?resize=140%2C140') no-repeat; background-size: cover">
+<div class="hiring_desc"><a class="hirtitle" href="http://www.marlex.org/universal-music-demandada-pirateria/17059/" title="Universal Music demandada por&#8230; ¿piratería?">Universal Music demandada por&#8230; ¿piratería?</a></div>
+</div>
+<div class="line clear"></div>
+</div>
+<div class="hiringpost">
+<div class="hiring_item" style="background: url('https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/08/Blackview-BV8000-Pro-colors.jpg?resize=140%2C140') no-repeat; background-size: cover">
+<div class="hiring_desc"><a class="hirtitle" href="http://www.marlex.org/blackview-bv8000-movil-prueba-casi-todo/17047/" title="Blackview BV8000 Pro, un móvil a prueba de casi todo">Blackview BV8000 Pro, un móvil a prueba de casi todo</a></div>
+</div>
+<div class="line clear"></div>
+</div>
+<div class="hiringpost">
+<div class="hiring_item" style="background: url('https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/06/DragonBallzFighter.png?resize=140%2C140') no-repeat; background-size: cover">
+<div class="hiring_desc"><a class="hirtitle" href="http://www.marlex.org/dragon-ball-fighter-similitudes-manga/17031/" title="Dragon Ball Fighter Z y sus similitudes con el Manga">Dragon Ball Fighter Z y sus similitudes con el Manga</a></div>
+</div>
+<div class="line clear"></div>
+</div>
+<div class="hiringpost">
+<div class="hiring_item" style="background: url('https://i0.wp.com/www.marlex.org/wp-content/uploads/2017/04/Windows-00.png?resize=140%2C140') no-repeat; background-size: cover">
+<div class="hiring_desc"><a class="hirtitle" href="http://www.marlex.org/como-optimizar-windows-morir-intento/17014/" title="Cómo optimizar Windows 10 y no morir en el intento">Cómo optimizar Windows 10 y no morir en el intento</a></div>
+</div>
+<div class="line clear"></div>
+</div>
+<div class="hiringpost">
+<div class="hiring_item" style="background: url('https://i2.wp.com/www.marlex.org/wp-content/uploads/2017/04/pyramid.jpg?resize=140%2C140') no-repeat; background-size: cover">
+<div class="hiring_desc"><a class="hirtitle" href="http://www.marlex.org/descubre-egipto-piramide-unos-anos-antiguedad/16986/" title="Descubren en Egipto una pirámide de unos 3.700 años de antigüedad">Descubren en Egipto una pirámide de unos 3.700 años de antigüedad</a></div>
+</div>
+<div class="line clear"></div>
+</div>
+</div>
+</div>
+<div class="adsense">
+<script type='text/javascript'>
+            var adParams = {a: '36971123', size: '160x600',serverdomain: 'adk2trk.cpmrocket.com'  };
+            </script>
+<script type='text/javascript' src='http://adk2cdn.cpmrocket.com/cpmrocket/scripts/smart/smart.js'></script>
+</div>
+<div class="sxf"></div>
+</div>
+<div id="sidb">
+<div class="bullet brss"><a class="btnb" href="http://feeds.feedburner.com/marlexsystems/">Suscripción por RSS</a></div>
+<div class="bullet bemail"><a class="btnb" onclick="window.open('http://feedburner.google.com/fb/a/mailverify?uri=MarlexSystems&amp;hl=es', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" href="http://feedburner.google.com/fb/a/mailverify?uri=MarlexSystems&amp;hl=es">Suscripción por E-mail</a></div>
+<div class="bullet btwitter"><a class="btnb" href="http://twitter.com/intent/user?screen_name=marlexsystems" onclick="window.open(this.href, this.target, 'width=550,height=530'); return false;">Canal Twitter</a></div>
+<div class="bullet bfacebook"><a class="btnb" href="http://www.facebook.com/MarlexSystems">Fan Page Facebook</a></div>
+<div class="sxfu"></div>
+<div class="siblock">
+<div class="sititle"><span class="sihd sfinder">Buscador de Marlex Systems</span></div>
+<div class="sicontent centered">
+<script type="text/javascript">
+                function ss(form) {
+                    var q = window.encodeURIComponent(form["q"].value);
+                    var url = "http://www.google.com/search?q=site:www.marlex.org ";
+                    url = url + q;
+                    window.location = url;
+                    return false;
+                }
+            </script>
+<form method="get" action="" onsubmit="return ss(this)">
+<input type="search" id="q" name="q" placeholder="Buscar..." value="" /> <input type="submit" id="b" value="Buscar" />
+</form>
+</div>
+</div>
+<g:plus href="http://plus.google.com/102700906224132222810" width="275" height="131" theme="light"></g:plus>
+<div class="siblock">
+<div class="sititle"><span class="sihd spatr">Patrocinan Marlex Systems</span></div>
+<div class="sicontent">
+<a class="supleft spc" href="http://www.aresonline.org" target="_blank">
+<img src="http://www.marlex.org/wp-content/themes/ms4/extra/aresonline.jpg" width="125" height="125" /></a>
+<a class="supright spc" href="http://www.pulsodigital.net" target="_blank">
+<img src="http://www.marlex.org/wp-content/themes/ms4/extra/pulsodigital.jpg" width="125" height="125" /></a>
+<a class="supleft spc" href="http://tecnoark.com" target="_blank">
+<img src="http://www.marlex.org/wp-content/themes/ms4/extra/tecnoark.jpg" width="125" height="125" /></a>
+<a class="supright spc" href="http://www.doomos.cl/" target="_blank" alt="arriendo de casas">
+<img src="http://www.marlex.org/wp-content/themes/ms4/extra/doomos.gif" width="125" height="125" /></a>
+<a class="supleft spc" href="http://www.angrybirders.com/">
+<img alt="Angry Birds Online" src="http://www.marlex.org/wp-content/themes/ms4/extra/angrybirders.jpg" width="125" height="125" /></a>
+<a class="supright spc" href="http://frases.be/?utm_source=marlexsystems&amp;utm_medium=link&amp;utm_campaign=Frases%2Bpara%2Bel%2BFace">
+<img alt="Frases de Amor" src="http://www.marlex.org/wp-content/themes/ms4/extra/frases-facebook.png" width="125" height="125">
+</a>
+<a class="supleft" href="http://www.marlex.org/publicidad/">
+<img src="http://www.marlex.org/wp-content/themes/ms4/extra/anuncie.jpg" width="125" height="125" /></a>
+<a class="supright" href="http://www.marlex.org/publicidad/">
+<img src="http://www.marlex.org/wp-content/themes/ms4/extra/anuncie.jpg" width="125" height="125" /></a>
+<div class="clear"></div>
+</div>
+</div>
+<div class="siblock">
+<div class="sititle"><span class="sihd slink">Sitios Recomendados</span></div>
+<div class="sicontent">
+<li><a href="http://www.webadictos.com.mx/">WebAdictos</a></li>
+<li><a href="http://www.nierox.com">Nierox</a></li>
+<li><a href="http://www.seotalk.es">Posicionamiento en buscadores</a></li>
+<li><a href="http://anonym-url.com/go.php?to=http://www.dragonjar.org/">Seguridad Informatica Colombia</a></li>
+<li><a href="http://juegosflash.im">Juegos Flash</a></li>
+<li><a href="http://frases.be/">Frases de Amor</a></li>
+</div>
+</div>
+<div class="siblock">
+<div class="sititle"><span class="sihd sarch">Archivo de Noticias</span></div>
+<div class="sicontent centered">
+<select name="archive-dropdown" onChange='document.location.href=this.options[this.selectedIndex].value;'>
+<option value="">Selecciona un Mes </option>
+<option value='http://www.marlex.org/date/2017/08/'> agosto 2017 </option>
+<option value='http://www.marlex.org/date/2017/06/'> junio 2017 </option>
+<option value='http://www.marlex.org/date/2017/04/'> abril 2017 </option>
+<option value='http://www.marlex.org/date/2017/03/'> marzo 2017 </option>
+<option value='http://www.marlex.org/date/2017/02/'> febrero 2017 </option>
+<option value='http://www.marlex.org/date/2017/01/'> enero 2017 </option>
+<option value='http://www.marlex.org/date/2016/11/'> noviembre 2016 </option>
+<option value='http://www.marlex.org/date/2016/10/'> octubre 2016 </option>
+<option value='http://www.marlex.org/date/2016/08/'> agosto 2016 </option>
+<option value='http://www.marlex.org/date/2016/05/'> mayo 2016 </option>
+<option value='http://www.marlex.org/date/2015/12/'> diciembre 2015 </option>
+<option value='http://www.marlex.org/date/2015/11/'> noviembre 2015 </option>
+<option value='http://www.marlex.org/date/2015/10/'> octubre 2015 </option>
+<option value='http://www.marlex.org/date/2015/09/'> septiembre 2015 </option>
+<option value='http://www.marlex.org/date/2015/08/'> agosto 2015 </option>
+<option value='http://www.marlex.org/date/2015/07/'> julio 2015 </option>
+<option value='http://www.marlex.org/date/2015/06/'> junio 2015 </option>
+<option value='http://www.marlex.org/date/2015/04/'> abril 2015 </option>
+<option value='http://www.marlex.org/date/2015/03/'> marzo 2015 </option>
+<option value='http://www.marlex.org/date/2015/02/'> febrero 2015 </option>
+<option value='http://www.marlex.org/date/2015/01/'> enero 2015 </option>
+<option value='http://www.marlex.org/date/2014/12/'> diciembre 2014 </option>
+<option value='http://www.marlex.org/date/2014/11/'> noviembre 2014 </option>
+<option value='http://www.marlex.org/date/2014/10/'> octubre 2014 </option>
+<option value='http://www.marlex.org/date/2014/09/'> septiembre 2014 </option>
+<option value='http://www.marlex.org/date/2014/08/'> agosto 2014 </option>
+<option value='http://www.marlex.org/date/2014/07/'> julio 2014 </option>
+<option value='http://www.marlex.org/date/2014/06/'> junio 2014 </option>
+<option value='http://www.marlex.org/date/2014/05/'> mayo 2014 </option>
+<option value='http://www.marlex.org/date/2014/04/'> abril 2014 </option>
+<option value='http://www.marlex.org/date/2014/03/'> marzo 2014 </option>
+<option value='http://www.marlex.org/date/2014/02/'> febrero 2014 </option>
+<option value='http://www.marlex.org/date/2014/01/'> enero 2014 </option>
+<option value='http://www.marlex.org/date/2013/12/'> diciembre 2013 </option>
+<option value='http://www.marlex.org/date/2013/11/'> noviembre 2013 </option>
+<option value='http://www.marlex.org/date/2013/10/'> octubre 2013 </option>
+<option value='http://www.marlex.org/date/2013/09/'> septiembre 2013 </option>
+<option value='http://www.marlex.org/date/2013/08/'> agosto 2013 </option>
+<option value='http://www.marlex.org/date/2013/06/'> junio 2013 </option>
+<option value='http://www.marlex.org/date/2013/04/'> abril 2013 </option>
+<option value='http://www.marlex.org/date/2013/03/'> marzo 2013 </option>
+<option value='http://www.marlex.org/date/2013/01/'> enero 2013 </option>
+<option value='http://www.marlex.org/date/2012/12/'> diciembre 2012 </option>
+<option value='http://www.marlex.org/date/2012/11/'> noviembre 2012 </option>
+<option value='http://www.marlex.org/date/2012/10/'> octubre 2012 </option>
+<option value='http://www.marlex.org/date/2012/09/'> septiembre 2012 </option>
+<option value='http://www.marlex.org/date/2012/08/'> agosto 2012 </option>
+<option value='http://www.marlex.org/date/2012/07/'> julio 2012 </option>
+<option value='http://www.marlex.org/date/2012/06/'> junio 2012 </option>
+<option value='http://www.marlex.org/date/2012/05/'> mayo 2012 </option>
+<option value='http://www.marlex.org/date/2012/04/'> abril 2012 </option>
+<option value='http://www.marlex.org/date/2012/03/'> marzo 2012 </option>
+<option value='http://www.marlex.org/date/2012/02/'> febrero 2012 </option>
+<option value='http://www.marlex.org/date/2012/01/'> enero 2012 </option>
+<option value='http://www.marlex.org/date/2011/12/'> diciembre 2011 </option>
+<option value='http://www.marlex.org/date/2011/11/'> noviembre 2011 </option>
+<option value='http://www.marlex.org/date/2011/10/'> octubre 2011 </option>
+<option value='http://www.marlex.org/date/2011/09/'> septiembre 2011 </option>
+<option value='http://www.marlex.org/date/2011/08/'> agosto 2011 </option>
+<option value='http://www.marlex.org/date/2011/07/'> julio 2011 </option>
+<option value='http://www.marlex.org/date/2011/06/'> junio 2011 </option>
+<option value='http://www.marlex.org/date/2011/05/'> mayo 2011 </option>
+<option value='http://www.marlex.org/date/2011/04/'> abril 2011 </option>
+<option value='http://www.marlex.org/date/2011/03/'> marzo 2011 </option>
+<option value='http://www.marlex.org/date/2011/02/'> febrero 2011 </option>
+<option value='http://www.marlex.org/date/2011/01/'> enero 2011 </option>
+<option value='http://www.marlex.org/date/2010/12/'> diciembre 2010 </option>
+<option value='http://www.marlex.org/date/2010/11/'> noviembre 2010 </option>
+<option value='http://www.marlex.org/date/2010/10/'> octubre 2010 </option>
+<option value='http://www.marlex.org/date/2010/09/'> septiembre 2010 </option>
+<option value='http://www.marlex.org/date/2010/08/'> agosto 2010 </option>
+<option value='http://www.marlex.org/date/2010/07/'> julio 2010 </option>
+<option value='http://www.marlex.org/date/2010/06/'> junio 2010 </option>
+<option value='http://www.marlex.org/date/2010/05/'> mayo 2010 </option>
+<option value='http://www.marlex.org/date/2010/04/'> abril 2010 </option>
+<option value='http://www.marlex.org/date/2010/03/'> marzo 2010 </option>
+<option value='http://www.marlex.org/date/2010/02/'> febrero 2010 </option>
+<option value='http://www.marlex.org/date/2010/01/'> enero 2010 </option>
+<option value='http://www.marlex.org/date/2009/12/'> diciembre 2009 </option>
+<option value='http://www.marlex.org/date/2009/11/'> noviembre 2009 </option>
+<option value='http://www.marlex.org/date/2009/10/'> octubre 2009 </option>
+<option value='http://www.marlex.org/date/2009/09/'> septiembre 2009 </option>
+<option value='http://www.marlex.org/date/2009/08/'> agosto 2009 </option>
+<option value='http://www.marlex.org/date/2009/07/'> julio 2009 </option>
+<option value='http://www.marlex.org/date/2009/06/'> junio 2009 </option>
+<option value='http://www.marlex.org/date/2009/05/'> mayo 2009 </option>
+<option value='http://www.marlex.org/date/2009/04/'> abril 2009 </option>
+<option value='http://www.marlex.org/date/2009/03/'> marzo 2009 </option>
+<option value='http://www.marlex.org/date/2009/02/'> febrero 2009 </option>
+<option value='http://www.marlex.org/date/2009/01/'> enero 2009 </option>
+<option value='http://www.marlex.org/date/2008/12/'> diciembre 2008 </option>
+<option value='http://www.marlex.org/date/2008/11/'> noviembre 2008 </option>
+<option value='http://www.marlex.org/date/2008/10/'> octubre 2008 </option>
+<option value='http://www.marlex.org/date/2008/09/'> septiembre 2008 </option>
+<option value='http://www.marlex.org/date/2008/08/'> agosto 2008 </option>
+<option value='http://www.marlex.org/date/2008/07/'> julio 2008 </option>
+<option value='http://www.marlex.org/date/2008/06/'> junio 2008 </option>
+<option value='http://www.marlex.org/date/2008/05/'> mayo 2008 </option>
+<option value='http://www.marlex.org/date/2008/04/'> abril 2008 </option>
+<option value='http://www.marlex.org/date/2008/03/'> marzo 2008 </option>
+<option value='http://www.marlex.org/date/2008/02/'> febrero 2008 </option>
+<option value='http://www.marlex.org/date/2008/01/'> enero 2008 </option>
+<option value='http://www.marlex.org/date/2007/12/'> diciembre 2007 </option>
+<option value='http://www.marlex.org/date/2007/11/'> noviembre 2007 </option>
+<option value='http://www.marlex.org/date/2007/10/'> octubre 2007 </option>
+<option value='http://www.marlex.org/date/2007/09/'> septiembre 2007 </option>
+<option value='http://www.marlex.org/date/2007/08/'> agosto 2007 </option>
+<option value='http://www.marlex.org/date/2007/07/'> julio 2007 </option>
+<option value='http://www.marlex.org/date/2007/06/'> junio 2007 </option>
+<option value='http://www.marlex.org/date/2007/05/'> mayo 2007 </option>
+<option value='http://www.marlex.org/date/2007/04/'> abril 2007 </option>
+<option value='http://www.marlex.org/date/2007/03/'> marzo 2007 </option>
+</select>
+<form action="http://www.marlex.org/" method="get">
+<select name='cat' id='cat' class='postform' onchange='return this.form.submit()'>
+<option value='-1'>Selecciona una Categoria</option>
+<option class="level-0" value="120309">Android</option>
+<option class="level-0" value="127337">Aplicaciones</option>
+<option class="level-0" value="120322">Apple</option>
+<option class="level-0" value="331">Blackberry</option>
+<option class="level-0" value="58">Breves</option>
+<option class="level-0" value="41">Ciencia</option>
+<option class="level-0" value="8">Curiosidades</option>
+<option class="level-0" value="119594">Destacado</option>
+<option class="level-0" value="120315">Diseño</option>
+<option class="level-0" value="120321">Empresas</option>
+<option class="level-0" value="120324">Facebook</option>
+<option class="level-0" value="190">Fotografía e imagen</option>
+<option class="level-0" value="3">General</option>
+<option class="level-0" value="11">Google</option>
+<option class="level-0" value="120316">Hardware</option>
+<option class="level-0" value="20">Internet</option>
+<option class="level-0" value="120310">iPhone e iOS</option>
+<option class="level-0" value="1683">Linux</option>
+<option class="level-0" value="120313">Mensajería</option>
+<option class="level-0" value="120323">Microsoft</option>
+<option class="level-0" value="120330">Mundo Real</option>
+<option class="level-0" value="39">Posicionamiento Web</option>
+<option class="level-0" value="120314">Publicidad</option>
+<option class="level-0" value="120327">Seguridad</option>
+<option class="level-0" value="10">Sistemas Operativos</option>
+<option class="level-0" value="120312">Software</option>
+<option class="level-0" value="30">Tecnología</option>
+<option class="level-0" value="19">Telefonía</option>
+<option class="level-0" value="61">Tutoriales</option>
+<option class="level-0" value="120325">Twitter</option>
+<option class="level-0" value="120329">Videojuegos</option>
+<option class="level-0" value="120319">Windows</option>
+<option class="level-0" value="120326">WordPress</option>
+</select>
+<noscript><input type="submit" value="Ver" /></noscript>
+</form>
+</div>
+</div>
+</div> <div class="clear"></div>
+</div>
+<div id="footer">
+<div id="fpages">
+<p class="fbltitle">Páginas del Sitio</p>
+<ul>
+<li><a rel="nofollow" href="http://www.marlex.org/condiciones/">Condiciones de Uso</a></li>
+<li><a rel="nofollow" href="http://www.marlex.org/politica-de-privacidad/">Política de Privacidad</a></li>
+<li><a rel="nofollow" href="http://www.marlex.org/publicidad/">Anuncios y Publicidad</a></li>
+<li><a rel="nofollow" href="http://www.marlex.org/acerca/">Acerca de Marlex Systems</a></li>
+<li><a rel="nofollow" href="http://www.marlex.org/contacto/">Contáctanos</a></li>
+<li><a rel="nofollow" href="http://www.marlex.org/wp-admin/">Acceso Editores</a></li>
+</ul>
+</div>
+<div id="finfo">
+<p class="fbltitle">Acerca de Marlex Systems</p>
+<p><strong><a href="/">Marlex Systems</a></strong> es un desarrollo de <strong><a href="http://www.dappollonio.us">Patrick D’appollonio</a></strong> presente desde Marzo del 2007, alcanzando cada mes a más de un millón de lectores.</p>
+<p>A no ser que se indique lo contrario, los artículos, imágenes y contenidos son entregados bajo la <a rel="nofollow" href="http://creativecommons.org/licenses/by-nc-sa/2.0/cl/">Licencia Creative Commons Atribución - No Comercial - Licenciar Igual</a>. Del mismo modo, el sitio se encuentra <a rel="nofollow" href="http://www.safecreative.org/userfeed/1005120002100">registrado en Safe Creative</a> para proteger los contenidos ante posibles copias indiscriminadas y comparte su contenido gracias a la <a rel="nofollow" href="http://the-acap.org/acap_enabled.aspx">Tecnología ACAP</a>.</p>
+<script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'marlexsystems';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://www.marlex.org/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.marlex.org/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201810'></script>
+<script type='text/javascript' src='http://www.marlex.org/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://www.marlex.org/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.marlex.org/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"http:\/\/www.marlex.org\/wp-admin\/admin-ajax.php","nonce":"ecaee220ab","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comentario","post_comment":"Publicar comentario","write_comment":"Escribir un Comentario...","loading_comments":"Cargando comentarios...","download_original":"Ver tama\u00f1o completo <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Por favor, aseg\u00farate de enviar el texto con tu comentario.","no_comment_email":"Por favor, proporciona una direcci\u00f3n de correo electr\u00f3nico para comentar.","no_comment_author":"Por favor, a\u00f1ade tu nombre al comentario.","comment_post_error":"Lo sentimos, pero hubo un error al publicar tu comentario. Por favor, vuelve a intentarlo m\u00e1s tarde.","comment_approved":"Se aprob\u00f3 tu comentario.","comment_unapproved":"Tu comentario est\u00e1 en moderaci\u00f3n.","camera":"C\u00e1mara","aperture":"Abertura","shutter_speed":"Velocidad de obturaci\u00f3n","focal_length":"Longitud focal","copyright":"Derechos","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/www.marlex.org\/wp-login.php?redirect_to=http%3A%2F%2Fwww.marlex.org%2Fvicepresidente-samsung-sentenciado-cinco-anos-prision-soborno-perjurio%2F17089%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Correo electr\u00f3nico (Obligatorio)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Nombre (Obligatorio)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Web<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.marlex.org/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20170209'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201810.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.8',blog:'5818647',post:'0',tz:'-3',srv:'www.marlex.org'} ]);
+	_stq.push([ 'clickTrackerInit', '5818647', '0' ]);
+</script>
+</div>
+<div id="fend">
+<p class="fbltitle">El sitio En Números</p>
+<p>
+<span class="feno">5.551</span> publicaciones <br />
+<span class="feno">12.593</span> comentarios <br />
+<span class="feno">42</span> categorías <br />
+<span class="feno">1,303</span> segundos de carga <br />
+<span class="feno">80</span> consultas sql
+</p>
+</div>
+<div class="clear sxfd"></div>
+<div style="display:scroll;position:fixed;bottom:0px;right:0px;"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FMarlexSystems&amp;locale=es_ES&amp;layout=box_count&amp;show_faces=true&amp;width=500&amp;action=recommend&amp;font=verdana&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:75px;" allowTransparency="true"></iframe></div>
+</body>
+</html>
+
+

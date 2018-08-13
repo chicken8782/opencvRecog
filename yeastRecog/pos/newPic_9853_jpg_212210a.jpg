@@ -1,0 +1,6263 @@
+<!DOCTYPE html>
+<!--[if (lt IE 10) ]><html class="old-ie has-no-anyflexbox" lang="nl"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class=" has-anyflexbox" lang="nl"><!--<![endif]-->
+<head>
+	
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+<!--
+ _ __  _ __ ___
+| '_ \| '__/ __|
+| | | | | | (__
+|_| |_|_|  \___|
+
+NRC zoekt per direct ervaren backend- en frontend-developers . Meer informatie op
+https://github.com/nrcmedia/nrc-zoekt-developer/
+
+-->
+		<title>NRC</title>
+
+		
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		
+		<script>nmt = { bottom: [] };</script>
+		<script>window._sf_startpt = (new Date()).getTime();</script>
+
+		
+			<link rel="stylesheet" href="/static/front/build/css/main.a63fdffb8.css">
+		
+
+		
+	
+	
+		<link rel="stylesheet"
+	data-native-ad-lazy-stylesheet data-href="https://fonts.googleapis.com/css?family=Ubuntu+Condensed:400,700,400italic,700italic|Ubuntu:400,700,700italic,900,900italic,400italic,100,100italic,300,300italic|Open+Sans:400,400i">
+	
+
+
+		
+
+		
+<meta name="twitter:site" content="@nrc">
+<meta property="twitter:account_id" content="4503599627452245">
+<meta property="og:site_name" content="NRC">
+<meta property="fb:page_id" content="196118303833398">
+
+
+<meta property="fb:pages" content="196118303833398">
+<meta property="fb:pages" content="285390408300968">
+<meta property="fb:pages" content="238487967764">
+<meta property="fb:pages" content="1331135880337552">
+		
+	<meta property="ad:subject" content="nieuws">
+<meta property="ad:categories" content="">
+<meta property="ad:pagetype" content="home">
+
+		
+			
+	<link rel="shortcut icon" href="/static/front/icons/favicon.ico">
+
+	<link rel="mask-icon" href="/static/front/icons/favicon.svg" color="#d30910">
+			
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/front/icons/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/front/icons/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/front/icons/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/front/icons/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/front/icons/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/front/icons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/static/front/icons/apple-touch-icon-precomposed.png">
+
+		
+
+		
+			<link rel="canonical" href="https://www.nrc.nl/">
+		
+
+		
+			<link rel="alternate" type="application/rss+xml" title="home - NRC" href="/rss/">
+		
+	
+</head>
+<body class="page-home"
+	 data-allow-ads="1" data-page-type="frontpage"
+	data-user-is-logged-in="0"
+    data-papi-base-url="https://nrc.nl/papi/api"
+	data-static-path="/static/front/">
+	
+		
+
+
+<header class="header" data-site-header>
+
+	<div class="breaking-news__container loading" data-context="/" data-breaking-bar>
+		
+	</div>
+	
+
+		
+		
+
+		
+		
+	<div class="banner banner--leaderboard ">
+		
+		<div class="banner__output"
+			
+				data-banner-position="leaderboard"
+			
+			
+			
+			
+			
+				data-req-visitor-state="logged-out"
+			
+			
+			
+		></div>
+	</div>
+
+
+		<div data-cookie-bar-holder></div>
+
+		<div class="header__main">
+			<div class="header__inner-container header__menu__wrapper">
+				<div data-service-bar-holder-for="lt-desktop"></div>
+
+				<a href="/" class="header__logo bg-nrc-logo">NRC</a>
+				<a class="header__subscribe" href="https://abonnementen.nrc.nl/nrc-nl/bestel?utm_source=NRC&amp;utm_medium=banner&amp;utm_term=Onbeperkt%20nrc.nl&amp;utm_content=web&amp;utm_campaign=Login">Abonnementen</a>
+
+				<ul class="header__menu" data-header-menu>
+					<li class="header__menu__item header__menu__item--has-sub-menu" data-header-menu-close>
+						<span class="header__menu__label">Menu</span>
+						<span class="header__menu__icon header__menu__icon--hamburger"><svg width="18" height="14" viewBox="0 0 18 14"><path stroke-width="2.3" d="M0,1.4h18M0,7h18M0,12.6h18"/></svg></span>
+						<ul class="header__menu header__menu--sub-menu">
+							<li class="header__menu__item"><a href="/digitaleeditie" class="header__menu__link">Digitale editie</a></li>
+							<li class="header__menu__item"><a href="https://nrcwebwinkel.nl/?utm_source=NRC_header&amp;utm_medium=nrc.nl&amp;utm_content=tekstlink&amp;utm_campaign=headernrc" class="header__menu__link">Webwinkel</a></li>
+							<li class="header__menu__item"><a href="https://www.nrc.nl/index/carriere/" class="header__menu__link">Carrière</a></li>
+							<li class="header__menu__item header__menu__item--familieberichten"><a href="https://www.nrcmedia.nl/particulier/familieberichten/" class="header__menu__link">Familieberichten</a></li>
+							<li class="header__menu__item header__menu__item--service">
+								<a class="header__menu__link" href="#service-bar" data-toggle-service-bar>
+									<span class="header__menu__item--service__label">Service</span>
+									<span class="header__menu__item--service__logged-in-label"><svg viewBox="0 0 160 210" width="16" height="21"><path d="M149 129c-4-10-31-18-31-18-14-5-14-10-14-10-28 55-48 0-48 1-2 7-30 16-31 16-4 2-8 4-11 8-12 18-14 59-14 59 0 9 4 10 4 10 23 9 47 14 72 15 27 1 54-4 79-13 2-1 4-3 5-6 1-21-3-42-11-62zM49 73c2 18 17 36 30 35 16 0 31-19 33-35 2-1 9-40-1-51-4-5-10-8-16-10C95 12 81 1 82 0c-1 1-11 3-14 8-10 4-17 12-21 22-2 9 0 42 2 43z"/></svg></span>
+								</a>
+							</li>
+							<li class="header__menu__item header__menu__item--login">
+								<a class="header__menu__link" href="/login/" data-login-link>
+									<span class="header__menu__item--login__login-label">Inloggen</span>
+									<span class="header__menu__item--login__logged-in-label" data-toggle-service-bar><svg viewBox="0 0 160 210" width="16" height="21"><path d="M149 129c-4-10-31-18-31-18-14-5-14-10-14-10-28 55-48 0-48 1-2 7-30 16-31 16-4 2-8 4-11 8-12 18-14 59-14 59 0 9 4 10 4 10 23 9 47 14 72 15 27 1 54-4 79-13 2-1 4-3 5-6 1-21-3-42-11-62zM49 73c2 18 17 36 30 35 16 0 31-19 33-35 2-1 9-40-1-51-4-5-10-8-16-10C95 12 81 1 82 0c-1 1-11 3-14 8-10 4-17 12-21 22-2 9 0 42 2 43z"/></svg></span>
+								</a>
+							</li>
+						</ul>
+					</li>
+					<li class="header__menu__item header__menu__item--search" >
+						<span class="header__menu__icon header__menu__icon--search">
+							<svg width="18" height="21" viewBox="0 0 180 210"><circle cx="73" cy="71" r="60" stroke-width="21" fill="none"/><path d="M105 120l61 82" stroke-width="30"/></svg>
+						</span>
+						<div class="header__menu__search">
+							<form name="searchform" action="/search/" method="get">
+								<input type="text" name="q" placeholder="bv. Adam West" class="header__menu__search__input" required>
+								<button type="submit" class="header__menu__search__submit"><svg width="18" height="21" viewBox="0 0 180 210"><circle cx="73" cy="71" r="60" stroke-width="21" fill="none"/><path d="M105 120l61 82" stroke-width="30"/></svg></button>
+							</form>
+							<div class="header__menu__search__close"><svg height="16" width="16" viewBox="0 0 256 256"><path stroke-linecap="round" stroke-width="36" d="M50,50L206,206M50,206L206,50"/></svg></div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div data-service-bar-holder-for="gt-desktop">
+			<div class="header__service-bar" data-service-bar id="service-bar">
+	<div class="inner">
+
+		<div class="header__service-bar__msg-holder" data-service-bar-news-holder>
+		</div>
+
+		<div class="header__service-bar__menu">
+			<div class="header__service-bar__status header__service-bar__status--logged-in">
+				Je bent ingelogd als:
+				<span class="header__service-bar__status__email" data-service-bar-user-email></span>
+				<a href="/logout/" class="header__service-bar__action-button header__service-bar__action-button--logout" data-logout-link>Uitloggen</a>
+			</div>
+
+			<div class="header__service-bar__status header__service-bar__status--logged-out">
+				Je bent niet ingelogd
+				<a href="/login/" class="header__service-bar__action-button header__service-bar__action-button--login" data-login-link>Inloggen</a>
+			</div>
+
+			<div class="header__service-bar__cols">
+				<ul class="header__service-bar__item-list col1">
+					
+						<li class="header__service-bar__item header__service-bar__item--bezorging">
+							<a href="https://service.nrc.nl/bezorging">Bezorgservice</a>
+						</li>
+					
+						<li class="header__service-bar__item header__service-bar__item--onderbreking">
+							<a href="https://service.nrc.nl/onderbreking">Onderbrekingsservice</a>
+						</li>
+					
+						<li class="header__service-bar__item header__service-bar__item--verhuizing">
+							<a href="https://service.nrc.nl/verhuizing">Verhuisservice</a>
+						</li>
+					
+						<li class="header__service-bar__item header__service-bar__item--mijn-abonnement">
+							<a href="https://service.nrc.nl/abonnement">Mijn abonnementen</a>
+						</li>
+					
+				</ul>
+
+				<ul class="header__service-bar__item-list col2">
+					
+						<li class="header__service-bar__item header__service-bar__item--mijn-gegevens">
+							<a href="https://service.nrc.nl/gegevens">Mijn gegevens</a>
+						</li>
+					
+						<li class="header__service-bar__item header__service-bar__item--mijn-leeslijst">
+							<a href="/profiel/leeslijst">Mijn leeslijst</a>
+						</li>
+					
+						<li class="header__service-bar__item header__service-bar__item--digitaal-lezen">
+							<a href="https://service.nrc.nl/digitaal">Digitaal lezen</a>
+						</li>
+					
+						<li class="header__service-bar__item header__service-bar__item--nieuwsbrieven">
+							<a href="https://service.nrc.nl/nieuwsbrieven">Nieuwsbrieven</a>
+						</li>
+					
+						<li class="header__service-bar__item header__service-bar__item--faq">
+							<a href="https://service.nrc.nl/faq">Veelgestelde vragen</a>
+						</li>
+					
+				</ul>
+
+			</div>
+		</div>
+
+	</div>
+</div>
+		</div>
+
+		
+		<div class="header__de">
+	<div class="header__de__inner">
+		<div class="header__de__inner-container">
+
+			
+
+		</div>
+	</div>
+</div>
+
+		
+
+		
+		<div class="header__sections header__sections--startup">
+			<div class="header__sections__inner">
+				<div class="header__inner-container">
+					<a href="/" class="header__logo bg-nrc-logo">NRC</a>
+					<div class="header__social-buttons">
+    <a href="https://www.facebook.com/NRC" class="header__social-buttons__button facebook">
+		<svg width="44" height="44" viewBox="0 0 900 900"><path d="M495 693h-90V469h-75v-87h75v-64c0-37 11-65 32-86 20-19 46-29 80-29 19 0 41 1 67 3v78h-47c-28 0-42 13-42 38v60h86l-11 87h-75v224z"/></svg>
+    </a>
+    <a href="https://twitter.com/nrc" class="header__social-buttons__button twitter">
+		<svg viewBox="0 0 262 262" width="44" height="44"><path d="M201 91s-5 9-14 14c2 39-27 82-78 83-26 0-42-13-43-13s20 4 41-11c-21-1-26-19-26-20s6 2 13 0c-23-6-22-28-22-28s6 4 12 4c-21-16-9-37-8-37s19 27 57 29c-6-30 29-44 47-25 9-2 18-7 18-7s-3 10-13 15c8-1 16-4 16-4z"/></svg>
+    </a>
+</div>
+					<ul class="header__sections__list">
+						
+						
+
+							
+			
+				<li class="header__section header__section--type-section header__section--binnenland ">
+					<a href="/sectie/binnenland/" class="header__section__label">Binnenland</a>
+				</li>
+			
+				<li class="header__section header__section--type-section header__section--buitenland ">
+					<a href="/sectie/buitenland/" class="header__section__label">Buitenland</a>
+				</li>
+			
+				<li class="header__section header__section--type-section header__section--economie ">
+					<a href="/sectie/economie/" class="header__section__label">Economie</a>
+				</li>
+			
+				<li class="header__section header__section--type-section header__section--cultuur ">
+					<a href="/index/cultuur/" class="header__section__label">Cultuur</a>
+				</li>
+			
+				<li class="header__section header__section--type-section header__section--sport ">
+					<a href="/sectie/sport/" class="header__section__label">Sport</a>
+				</li>
+			
+				<li class="header__section header__section--type-section header__section--opinie ">
+					<a href="/sectie/opinie/" class="header__section__label">Opinie</a>
+				</li>
+			
+				<li class="header__section header__section--type-section header__section--wetenschap ">
+					<a href="/sectie/wetenschap/" class="header__section__label">Wetenschap</a>
+				</li>
+			
+				<li class="header__section header__section--type-section header__section--tech-media ">
+					<a href="/sectie/tech-media/" class="header__section__label">Tech &amp; Media</a>
+				</li>
+			
+		
+
+							<li class="header__sections__more">
+								<span class="header__section__label">
+									<span class="header__section__label__more">Meer</span>
+									<span class="header__section__label__sections">Secties</span>
+								</span>
+								<ul class="header__sections__more__list">
+									
+			
+				<li class="header__section header__section--type-blog header__section--boeken ">
+					<a href="/index/boeken/" class="header__section__label">Boeken</a>
+				</li>
+			
+				<li class="header__section header__section--type-blog header__section--hoofdredacteur ">
+					<a href="/blog/hoofdredacteur/" class="header__section__label">Hoofdredacteur</a>
+				</li>
+			
+				<li class="header__section header__section--type-blog header__section--klimaat ">
+					<a href="/blog/klimaat/" class="header__section__label">Klimaat</a>
+				</li>
+			
+				<li class="header__section header__section--type-blog header__section--rechtenbestuur ">
+					<a href="/blog/rechtenbestuur/" class="header__section__label">Recht &amp; Onrecht</a>
+				</li>
+			
+				<li class="header__section header__section--type-blog header__section--ombudsman ">
+					<a href="/rubriek/de-ombudsman/" class="header__section__label">Ombudsman</a>
+				</li>
+			
+				<li class="header__section header__section--type-blog header__section--inbeeld ">
+					<a href="/index/inbeeld/" class="header__section__label">In beeld</a>
+				</li>
+			
+				<li class="header__section header__section--type-blog header__section--lifestyle ">
+					<a href="/index/lifestyle/" class="header__section__label">Lifestyle</a>
+				</li>
+			
+				<li class="header__section header__section--type-blog header__section--onderwijs ">
+					<a href="/blog/onderwijs/" class="header__section__label">Onderwijs</a>
+				</li>
+			
+		
+								</ul>
+							</li>
+
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+	
+
+	
+
+</header>
+	
+
+	
+	<main>
+		
+	<div class="index-grid" data-frontpage-sections>
+		
+
+
+
+
+<div class="block block--has-sidebar"
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout nmt-layout--sidebar-align-right rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							
+
+
+
+<div data-track-block-click="Vandaag" class="block--label-vandaag">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					<a href="https://www.nrc.nl/vandaag/">Vandaag</a>
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-5 flexfloat--block-upper-opening">
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/05/shape-of-water-wint-oscar-beste-film-a1594438" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/ZfWa7n9q4ng-vZJuPocldlpkWWg=/0x25:1280x793/640x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/108fd8d3-fffa-43cd-98c3-1a63c200b56f.jpg|https://images.nrc.nl/wx_XfM7bLYQVMb1mowClRAcOxNQ=/0x25:1280x793/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/108fd8d3-fffa-43cd-98c3-1a63c200b56f.jpg"
+				
+					data-src-320="https://images.nrc.nl/X8f-RQRtMfIFDRja7O7NdSuZzKo=/0x25:1280x793/320x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/108fd8d3-fffa-43cd-98c3-1a63c200b56f.jpg|https://images.nrc.nl/ZfWa7n9q4ng-vZJuPocldlpkWWg=/0x25:1280x793/640x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/108fd8d3-fffa-43cd-98c3-1a63c200b56f.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/ZfWa7n9q4ng-vZJuPocldlpkWWg=/0x25:1280x793/640x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/108fd8d3-fffa-43cd-98c3-1a63c200b56f.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Oscaruitreikingen</h6>
+	
+
+	<h3 class="nmt-item__headline">The Shape of Water wint Oscar beste film</h3>
+
+	
+		<div class="nmt-item__teaser">De film over een zeewezen op een Amerikaanse legerbasis won in totaal vier Oscars en troefde daarmee de andere grote favoriet - Three Billboards outside Ebbing, Missouri - af.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/een-succesvolle-lokale-partij-belooft-veel-veiligheid-a1594402" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.600470035252644" style="padding-bottom: 60.0470035252644%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/2qpUjvv-9HzoDbyvRKmXwzGY60E=/0x490:851x1001/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25793031-fb7e73.jpg|https://images.nrc.nl/fY5nE4qZn0MGrdoOBjmu0hQMcjc=/0x490:851x1001/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25793031-fb7e73.jpg"
+				
+					data-src-320="https://images.nrc.nl/u-p_pBV1n4pNwhvXR1aZ_x1CjTU=/0x490:851x1001/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25793031-fb7e73.jpg|https://images.nrc.nl/2qpUjvv-9HzoDbyvRKmXwzGY60E=/0x490:851x1001/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25793031-fb7e73.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/2qpUjvv-9HzoDbyvRKmXwzGY60E=/0x490:851x1001/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25793031-fb7e73.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Lokale partijen</h6>
+	
+
+	<h3 class="nmt-item__headline">Een succesvolle lokale partij belooft veel veiligheid</h3>
+
+	
+		<div class="nmt-item__teaser">In veel gemeenten domineren lokale partijen de gemeenteraad. Zij trekken zich niks aan van klassieke ideologieën, blijkt uit onderzoek van NRC.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/16106474-a1594433" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6000359195402298" style="padding-bottom: 60.00359195402298%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/XGqc3l3NC-i69jw3RJxTo-aUIh0=/0x0:5568x3341/160x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/05/e4d7c85d-a968-46c0-a70e-59bf26c29c36.jpg|https://images.nrc.nl/Vj1OvHvOlT3DjsZVrzemffPHHBk=/0x0:5568x3341/320x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/05/e4d7c85d-a968-46c0-a70e-59bf26c29c36.jpg"
+				
+					data-src="https://images.nrc.nl/Vj1OvHvOlT3DjsZVrzemffPHHBk=/0x0:5568x3341/320x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/05/e4d7c85d-a968-46c0-a70e-59bf26c29c36.jpg|https://images.nrc.nl/BGbUTUJjXdQw-qBkP7lBjxZ6oNg=/0x0:5568x3341/640x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/05/e4d7c85d-a968-46c0-a70e-59bf26c29c36.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/BGbUTUJjXdQw-qBkP7lBjxZ6oNg=/0x0:5568x3341/640x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/05/e4d7c85d-a968-46c0-a70e-59bf26c29c36.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Exitpolls</h6>
+	
+
+	<h3 class="nmt-item__headline">Populisten winnen in Italië maar patstelling dreigt</h3>
+
+	
+		<div class="nmt-item__teaser">Volgens de eerste, voorlopige uitslagen wordt het moeilijk een regering te vormen zonder de populistische Vijfsterrenbeweging. Die boekte een ,,historische winst''. </div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/alle-hekken-weg-en-voeren-a1594428" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.60009765625" style="padding-bottom: 60.009765625%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/b_lCibVwdLiiQwO5YA5XKeh1aN4=/0x137:2048x1366/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/0503bin_fotoverhaalbijvoeren06.jpg|https://images.nrc.nl/OYz7YJRrhVTtIaHktMl6HBxL59w=/0x137:2048x1366/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/0503bin_fotoverhaalbijvoeren06.jpg"
+				
+					data-src="https://images.nrc.nl/OYz7YJRrhVTtIaHktMl6HBxL59w=/0x137:2048x1366/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/0503bin_fotoverhaalbijvoeren06.jpg|https://images.nrc.nl/H6AZprO0oOCuhCcWsFyez-miDcU=/0x137:2048x1366/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/0503bin_fotoverhaalbijvoeren06.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/H6AZprO0oOCuhCcWsFyez-miDcU=/0x137:2048x1366/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/0503bin_fotoverhaalbijvoeren06.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Protest Oostvaardersplassen</h6>
+	
+
+	<h3 class="nmt-item__headline">‘Alle hekken weg en voeren’</h3>
+
+	
+		<div class="nmt-item__teaser">Vertrouwen in de natuurbeheerders is ver te zoeken bij de actievoerders die zondag naar de Oostvaardersplassen zijn gekomen.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/05/sligro-verkoopt-supermarkten-aan-jumbo-en-coop-a1594441" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/Azb1k-f5RtvHTRf_mFqlpJeMGoc=/160x96/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-29160533.jpg|https://images.nrc.nl/I3-CsQ9twvDbGL105G-fBFkB35k=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-29160533.jpg"
+				
+					data-src="https://images.nrc.nl/I3-CsQ9twvDbGL105G-fBFkB35k=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-29160533.jpg|https://images.nrc.nl/3gMiThhCS5YSIu5-eaWkFqvlDF0=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-29160533.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/QH4LdECIPAm1d-DWFbhh_M1Yg0M=/640x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-29160533.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Emté</h6>
+	
+
+	<h3 class="nmt-item__headline">Jumbo en Coop kopen supermarkten van Sligro</h3>
+
+	
+		<div class="nmt-item__teaser"><p>Met de overname van de 130 supermarkten is een bedrag van in totaal 410 miljoen euro gemoeid.</p>
+</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+		<a href="https://www.nrc.nl/vandaag/" class="block__more block__more--default-size">
+			Meer Vandaag
+		</a>
+	
+
+	
+
+	
+</div>
+
+
+
+
+<div data-track-block-click="Niet te missen" class="block--label-niet-te-missen">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					Niet te missen
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-5 flexfloat--block-upper-opening">
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/het-sterkste-wapen-van-de-nra-a1594426" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/Z7n_H2l0gdr4zM5Oli0IQXA05eo=/0x177:1575x1122/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024505-0ec7ce.png|https://images.nrc.nl/uOPqPUQQEUSqCEvHfZ58E_g1aVI=/0x177:1575x1122/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024505-0ec7ce.png"
+				
+					data-src-320="https://images.nrc.nl/Fmhef32P8THz7bFK1RJgQEpYFpg=/0x177:1575x1122/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024505-0ec7ce.png|https://images.nrc.nl/Z7n_H2l0gdr4zM5Oli0IQXA05eo=/0x177:1575x1122/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024505-0ec7ce.png"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/Z7n_H2l0gdr4zM5Oli0IQXA05eo=/0x177:1575x1122/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024505-0ec7ce.png" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Dana Loesch</h6>
+	
+
+	<h3 class="nmt-item__headline">Het sterkste wapen van de NRA</h3>
+
+	
+		<div class="nmt-item__teaser">Dana Loesch had zelf nooit wapens. Tot haar kinderen werden bedreigd. Woedend en compromisloos verkondigt ze het evangelie van de National Rifle Association.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/hoe-een-carnivoor-een-week-zonder-vlees-doorkomt-a1594241" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/3swBEpgG22iBDGkfz0RknHuLHOY=/865x0:2875x1206/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25756622-05da56.jpg|https://images.nrc.nl/0PPuE0TCqRwZezXKOZglYCPvp4U=/865x0:2875x1206/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25756622-05da56.jpg"
+				
+					data-src-320="https://images.nrc.nl/IQ0pxtE4aRkdBgJX_4cH9BI8oU0=/865x0:2875x1206/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25756622-05da56.jpg|https://images.nrc.nl/3swBEpgG22iBDGkfz0RknHuLHOY=/865x0:2875x1206/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25756622-05da56.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/3swBEpgG22iBDGkfz0RknHuLHOY=/865x0:2875x1206/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25756622-05da56.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Voeding</h6>
+	
+
+	<h3 class="nmt-item__headline">Hoe een carnivoor een week zonder vlees overleeft</h3>
+
+	
+		<div class="nmt-item__teaser">De Nationale Week Zonder Vlees begint deze maandag. Uitgesproken carnivoor Marcel van Roosmalen eet op verzoek een week vegetarisch. </div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/de-rector-vindt-nerd-een-geuzennaam-a1594435" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/cEEs87LlOAxv1zZXyKtY6F_SASw=/160x96/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/jannetjekoelewijn0v2.jpg|https://images.nrc.nl/ayN6IsnvYon4BK3uj23Qc-cEKQk=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/jannetjekoelewijn0v2.jpg"
+				
+					data-src="https://images.nrc.nl/ayN6IsnvYon4BK3uj23Qc-cEKQk=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/jannetjekoelewijn0v2.jpg|https://images.nrc.nl/81mLBZtkldgiGnoizF50FZ_ixZ0=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/jannetjekoelewijn0v2.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/6IR1G4NDZoKc9ZJDZv0dFVbEaMA=/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/jannetjekoelewijn0v2.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Column Jannetje Koelewijn</h6>
+	
+
+	<h3 class="nmt-item__headline">De rector vindt ‘nerd’ een geuzennaam</h3>
+
+	
+		<div class="nmt-item__teaser">Op het Juvenaat in Bergen op Zoom treft Jannetje Koelewijn klaslokalen waar alle gezichten naar de leraar zijn gericht, in een geïnteresseerde luisterstand.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/zijn-vernuft-had-na-hem-niemand-meer-a1594405" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/TTbU7mcTi8IuGxLBNtd6jIRDdZc=/0x77:1740x1121/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024635-d070d5.jpg|https://images.nrc.nl/2MwWZU1EpXg1NlpPKOrlA0XmVMU=/0x77:1740x1121/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024635-d070d5.jpg"
+				
+					data-src="https://images.nrc.nl/2MwWZU1EpXg1NlpPKOrlA0XmVMU=/0x77:1740x1121/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024635-d070d5.jpg|https://images.nrc.nl/Xw56RG0NqGteXq0JTH6_iTcyTFc=/0x77:1740x1121/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024635-d070d5.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/Xw56RG0NqGteXq0JTH6_iTcyTFc=/0x77:1740x1121/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024635-d070d5.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Afscheid Wesley Sneijder</h6>
+	
+
+	<h3 class="nmt-item__headline">Zijn vernuft had na hem niemand meer</h3>
+
+	
+		<div class="nmt-item__teaser">Na 133 interlands neemt Wesley Sneijder afscheid van Oranje; de meest geraffineerde ‘nummer 10’ uit de moderne tijd.
+</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/01/en-de-kanshebbers-zijn-a1594119" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/kK2c4P5Bo-tIDhUEbjULEOIzTLw=/0x98:1000x698/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/oscars.jpg|https://images.nrc.nl/BL7MxHKK4Cr1xo5i7ZUlAr1UIcg=/0x98:1000x698/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/oscars.jpg"
+				
+					data-src="https://images.nrc.nl/BL7MxHKK4Cr1xo5i7ZUlAr1UIcg=/0x98:1000x698/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/oscars.jpg|https://images.nrc.nl/J_k4EGVGGRbJdx-HczksjzLUlh0=/0x98:1000x698/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/oscars.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/J_k4EGVGGRbJdx-HczksjzLUlh0=/0x98:1000x698/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/oscars.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Oscars</h6>
+	
+
+	<h3 class="nmt-item__headline">‘The Shape of Water’ beste film? Via gokkantoren zijn Oscars te voorspellen</h3>
+
+	
+		<div class="nmt-item__teaser">Wie de wedkantoren volgt, weet welke films en acteurs de meeste kans maken op een gouden beeldje.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+
+	
+		<div class="native-ad-item-holder native-ad-item-holder--below-niet-te-missen">
+			<div class="native-ad-item" data-native-ad-item data-native-ad-context="niet te missen"></div>
+		</div>
+	
+
+	
+</div>
+
+
+
+
+<div data-track-block-click="Beste van het Web" class="block--label-beste-van-het-web">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					<a href="https://www.nrc.nl/index/bvhw/">Beste van het Web</a>
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-3 flexfloat--block-upper-theme">
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/dit-waren-deze-week-de-beste-verhalen-uit-de-buitenlandse-pers-52-a1593374" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/HqZQHwNSBS5kPInIIuSNK601JKw=/49x0:549x300/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/cholita.jpg|https://images.nrc.nl/PKEbRXKfJaw4Ej25uMdSwRlmSZQ=/49x0:549x300/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/cholita.jpg"
+				
+					data-src-320="https://images.nrc.nl/mKeF4iSbJo-zCGY6uJDhHu727L4=/49x0:549x300/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/cholita.jpg|https://images.nrc.nl/HqZQHwNSBS5kPInIIuSNK601JKw=/49x0:549x300/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/cholita.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/HqZQHwNSBS5kPInIIuSNK601JKw=/49x0:549x300/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/cholita.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Internationaal</h6>
+	
+
+	<h3 class="nmt-item__headline">Dit waren deze week de beste verhalen uit de buitenlandse pers</h3>
+
+	
+		<div class="nmt-item__teaser">In de Internationaal-nieuwsbrief deelt de buitenlandredactie van NRC dagelijks de meest opvallende en interessante verhalen die zij tegenkomt. Dit vonden we de vijf beste verhalen van deze week.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/wie-is-de-zelfbewuste-nora-die-islamofobie-wil-tegengaan-a1594230" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/RujO6_KQs0U_SLUHIs7igg4NQXo=/0x141:1630x1119/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/norastandpdf-1.jpg|https://images.nrc.nl/tj4jdqu2CihBcaUAiNeTx1dJodE=/0x141:1630x1119/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/norastandpdf-1.jpg"
+				
+					data-src-320="https://images.nrc.nl/-lFpZi9kxnpqcdtiG_p7GtLv1Ns=/0x141:1630x1119/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/norastandpdf-1.jpg|https://images.nrc.nl/RujO6_KQs0U_SLUHIs7igg4NQXo=/0x141:1630x1119/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/norastandpdf-1.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/RujO6_KQs0U_SLUHIs7igg4NQXo=/0x141:1630x1119/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/norastandpdf-1.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Nora spreekt </h6>
+	
+
+	<h3 class="nmt-item__headline">Wie is de zelfbewuste Nora die islamofobie wil tegengaan?</h3>
+
+	
+		<div class="nmt-item__teaser">Via social media geeft zij commentaar op anti-islamuitspraken van politici in aanloop naar de gemeenteraadsverkiezingen van 21 maart. </div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/02/28/de-slechtste-huisgenoot-die-je-kunt-wensen-a1593921" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/qnhEFGJEt9IVvZOEwgm4mFSuyOk=/0x244:3800x2524/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/174628418_25720101.jpg|https://images.nrc.nl/-MKFfkmukkPcAVvgzabJ8fmrF1A=/0x244:3800x2524/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/174628418_25720101.jpg"
+				
+					data-src="https://images.nrc.nl/-MKFfkmukkPcAVvgzabJ8fmrF1A=/0x244:3800x2524/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/174628418_25720101.jpg|https://images.nrc.nl/7f_2K0wkPMR9cpMbYLA-0twUTXg=/0x244:3800x2524/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/174628418_25720101.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/7f_2K0wkPMR9cpMbYLA-0twUTXg=/0x244:3800x2524/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/174628418_25720101.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Longread</h6>
+	
+
+	<h3 class="nmt-item__headline">De slechtste huisgenoot die je kunt wensen</h3>
+
+	
+		<div class="nmt-item__teaser">In eerste instantie lijkt hij de perfecte huisgenoot, maar Jed Creek wil maar een ding: je woning inpikken.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+		<a href="https://www.nrc.nl/index/bvhw/" class="block__more block__more--default-size">
+			Meer Beste van het web
+		</a>
+	
+
+	
+
+	
+</div>
+
+						
+
+					</div>
+
+					
+						
+
+
+
+
+
+<div class="
+	nmt-layout__sidebar
+	block__sidebar
+	
+		nmt-layout__sidebar--has-ad
+		nmt-layout__sidebar--has-ad--both
+	
+	">
+
+	
+		
+		
+	<div class="banner banner--rectangle banner--rectangle-in-grid banner--above-just-in">
+		
+			<div class="banner__label"></div>
+		
+		<div class="banner__output"
+			
+				data-banner-position="rectangle"
+			
+			
+			
+			
+			
+			
+			
+		></div>
+	</div>
+
+	
+
+	
+        <div data-async-fragment-uri="/data/fragments/just-in"></div>
+	
+
+	
+		
+
+		<div class="native-ad-item-holder native-ad-item-holder--below-more-news">
+			<div class="native-ad-item" data-native-ad-item data-native-ad-context="niet te missen"></div>
+		</div>
+
+		<div data-async-fragment-uri="/data/fragments/most-read"></div>
+	
+	
+	
+
+
+	
+
+	
+		
+			
+			
+	<div class="banner banner--rectangle banner--rectangle-in-grid">
+		
+		<div class="banner__output"
+			
+				data-banner-position="rectangle"
+			
+			
+				data-appnexus-position="nrcpromo"
+			
+			
+			
+			
+			
+				data-banner-force-detection="1"
+			
+			
+		></div>
+	</div>
+
+		
+	
+
+	
+</div>
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block block--label-minder-suiker block--has-label"
+	
+		id="/sectie/minder-suiker/"
+		data-track-block-click="Minder suiker"
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout has-no-nmt-layout-sidebar rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							
+
+
+
+<div data-track-block-click="Minder suiker" class="block--label-minder-suiker">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					<a href="https://www.nrc.nl/dossier/minder-suiker/">Minder suiker</a>
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-4 flexfloat--block-standard">
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/01/overal-suiker-a1593978" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/ZKc5ldmbK2o8UZhSjaVkZPLxm8k=/0x117:3150x2007/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data24686787-16d33d.jpg|https://images.nrc.nl/xgy1oWGSdPUPTF2mancRc9qFikg=/0x117:3150x2007/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data24686787-16d33d.jpg"
+				
+					data-src-320="https://images.nrc.nl/vQkjqXaKZZnXVXSb7b3reQwo6Vk=/0x117:3150x2007/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data24686787-16d33d.jpg|https://images.nrc.nl/ZKc5ldmbK2o8UZhSjaVkZPLxm8k=/0x117:3150x2007/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data24686787-16d33d.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/ZKc5ldmbK2o8UZhSjaVkZPLxm8k=/0x117:3150x2007/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data24686787-16d33d.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Eigen verantwoordelijkheid?</h6>
+	
+
+	<h3 class="nmt-item__headline">We eten te veel suiker, en dat is niet alleen maar onze eigen schuld</h3>
+
+	
+		<div class="nmt-item__teaser">Wie helpt ons van de overdosis suiker af? We eten het zélf te veel, maar we worden er ook de hele dag door achtervolgd.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/01/een-donut-na-de-mandarijn-a1593980" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/3MlxektoNkS9R6bC-NuB5JnEu-8=/0x211:3150x2101/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data24686769-4e675c.jpg|https://images.nrc.nl/3mRKIaH4TyGHLeJhd3pcpM1tPxA=/0x211:3150x2101/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data24686769-4e675c.jpg"
+				
+					data-src-320="https://images.nrc.nl/-634eNE1LHfTJ7fLtWXtNawmniE=/0x211:3150x2101/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data24686769-4e675c.jpg|https://images.nrc.nl/3MlxektoNkS9R6bC-NuB5JnEu-8=/0x211:3150x2101/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data24686769-4e675c.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/3MlxektoNkS9R6bC-NuB5JnEu-8=/0x211:3150x2101/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data24686769-4e675c.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">'Powerhouse aan prikkels'</h6>
+	
+
+	<h3 class="nmt-item__headline">De supermarkt  blijft ons toch steeds verleiden met suiker</h3>
+
+	
+		<div class="nmt-item__teaser">Supermarkten verlagen hier en daar het suikergehalte van producten – en lokken de klant evengoed met (goedkoop) zoet.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/01/minder-suiker-in-producten-kan-best-maar-snel-en-makkelijk-gaat-dat-niet-a1594085" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/aodlixJrqXxZ0DsM8QhwfY5g1Gw=/0x86:1280x854/160x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/02/data24686679-b64a16.jpg|https://images.nrc.nl/-j2fOJ5aVdG-s76jKJeGTLANE0o=/0x86:1280x854/320x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/02/data24686679-b64a16.jpg"
+				
+					data-src="https://images.nrc.nl/-j2fOJ5aVdG-s76jKJeGTLANE0o=/0x86:1280x854/320x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/02/data24686679-b64a16.jpg|https://images.nrc.nl/QZ_aAmmv09lT2LZRghdnfOb1na0=/0x86:1280x854/640x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/02/data24686679-b64a16.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/QZ_aAmmv09lT2LZRghdnfOb1na0=/0x86:1280x854/640x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/02/data24686679-b64a16.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Voedselindustrie</h6>
+	
+
+	<h3 class="nmt-item__headline">Minder suiker in producten kan best (het schiet alleen niet op)</h3>
+
+	
+		<div class="nmt-item__teaser">Waarom zit in heel veel etenswaren nog zoveel suiker? Vervangen gaat niet zomaar, zeggen fabrikanten. "Je kunt wel kleinere Magnums maken.”</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/01/een-suikertaks-nederland-is-nog-niet-zover-a1594090" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/ORcKYG9ziK0Lr7DcdSup-Gmz224=/0x0:3150x1890/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25391544-a1155a.jpg|https://images.nrc.nl/I4mwpDp7OoLrsPmdm06aePiIaRA=/0x0:3150x1890/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25391544-a1155a.jpg"
+				
+					data-src="https://images.nrc.nl/I4mwpDp7OoLrsPmdm06aePiIaRA=/0x0:3150x1890/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25391544-a1155a.jpg|https://images.nrc.nl/n9zAb0Dczo4NTxzzpThFzllmT8k=/0x0:3150x1890/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25391544-a1155a.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/n9zAb0Dczo4NTxzzpThFzllmT8k=/0x0:3150x1890/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25391544-a1155a.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Wetgeving</h6>
+	
+
+	<h3 class="nmt-item__headline">Een suikertaks? Nederland is nog niet zover</h3>
+
+	
+		<div class="nmt-item__teaser"> In de strijd tegen obesitas hebben tientallen landen een suikertaks ingevoerd. Waar blijft Nederland? "Wetgeving wordt hier als betutteling gezien.”</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+		<a href="https://www.nrc.nl/dossier/minder-suiker/" class="block__more block__more--default-size">
+			Meer over minder suiker
+		</a>
+	
+
+	
+
+	
+</div>
+
+						
+
+					</div>
+
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block block--label-binnenland block--has-label block--has-sidebar"
+	
+		id="/sectie/binnenland/"
+		data-track-block-click="Binnenland"
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout nmt-layout--sidebar-align-right rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							
+
+
+
+<div data-track-block-click="Binnenland" class="block--label-binnenland">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					<a href="/sectie/binnenland/">Binnenland</a>
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-3 flexfloat--block-standard">
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/varkens-verdelen-dorp-it-stjonkt-a1594399" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.5999099909990999" style="padding-bottom: 59.99099909990999%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/kUCeC2W2WrFA3yWfR4id-yQ2-Qw=/900x0:3122x1333/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25790229-fe4aa5.jpg|https://images.nrc.nl/wNojCR5Rkea6MrOLhKS2RWGWrYU=/900x0:3122x1333/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25790229-fe4aa5.jpg"
+				
+					data-src-320="https://images.nrc.nl/GBTzRTvjE2B_Sq8kpLeGHq8GnO8=/900x0:3122x1333/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25790229-fe4aa5.jpg|https://images.nrc.nl/kUCeC2W2WrFA3yWfR4id-yQ2-Qw=/900x0:3122x1333/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25790229-fe4aa5.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/kUCeC2W2WrFA3yWfR4id-yQ2-Qw=/900x0:3122x1333/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25790229-fe4aa5.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Uitbreiding varkensfokkerij</h6>
+	
+
+	<h3 class="nmt-item__headline">Varkens verdelen dorp – ‘it stjonkt’</h3>
+
+	
+		<div class="nmt-item__teaser">De plannen voor nieuwe varkensstallen in Hemelum zaaien tweedracht in het Friese dorp. Op 8 maart neemt de raad een besluit.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/fvd-kiest-deze-keer-niet-voor-de-tegenaanval-a1594357" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.5999529633113828" style="padding-bottom: 59.995296331138285%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/XqfnhnulMQAt3CcVxMG3pUS_v1g=/0x287:4252x2838/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26022111-37e567.jpg|https://images.nrc.nl/Uic0vAiN_Y_IaCkI8CUyZ5rZOZg=/0x287:4252x2838/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26022111-37e567.jpg"
+				
+					data-src-320="https://images.nrc.nl/mWVmwTGPHgC6ROR47cOyCdgVLgU=/0x287:4252x2838/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26022111-37e567.jpg|https://images.nrc.nl/XqfnhnulMQAt3CcVxMG3pUS_v1g=/0x287:4252x2838/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26022111-37e567.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/XqfnhnulMQAt3CcVxMG3pUS_v1g=/0x287:4252x2838/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26022111-37e567.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Forum voor Democratie</h6>
+	
+
+	<h3 class="nmt-item__headline">FvD kiest deze keer niet voor de tegenaanval</h3>
+
+	
+		<div class="nmt-item__teaser">Na onthullingen over zijn partij geeft Thierry Baudet meestal de media de schuld. Dat was dit weekend anders. De nummer twee in Amsterdam, Yernaz Ramautarsing, trok zich terug.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/alsof-de-ijsvogel-in-volle-vlucht-bevroren-is-a1594356" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/1111xEXv1pBwff_iLdxNH8JldIk=/0x192:1280x960/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/ijsvogel.jpg|https://images.nrc.nl/qhCDfoW5urohej4CsZoSw8yNFM4=/0x192:1280x960/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/ijsvogel.jpg"
+				
+					data-src="https://images.nrc.nl/qhCDfoW5urohej4CsZoSw8yNFM4=/0x192:1280x960/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/ijsvogel.jpg|https://images.nrc.nl/ZuENQeZHGYpMJ0e8mIKV2Ge0hmw=/0x192:1280x960/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/ijsvogel.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/ZuENQeZHGYpMJ0e8mIKV2Ge0hmw=/0x192:1280x960/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/ijsvogel.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Foto</h6>
+	
+
+	<h3 class="nmt-item__headline">Alsof de ijsvogel in volle vlucht bevroren is</h3>
+
+	
+		<div class="nmt-item__teaser">De 13-jarige Christoph van Ingen uit Oostzaan maakte een foto van een ijsvogel onder het ijs die vervolgens de wereld over ging.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+		<a href="/sectie/binnenland/" class="block__more block__more--default-size">
+			Meer Binnenland
+		</a>
+	
+
+	
+
+	
+</div>
+
+						
+
+					</div>
+
+					
+						
+
+
+
+
+
+<div class="
+	nmt-layout__sidebar
+	block__sidebar
+	
+		nmt-layout__sidebar--has-ad
+		nmt-layout__sidebar--has-ad--bottom
+	
+	">
+
+	
+
+	
+
+	
+	
+	
+
+
+	
+
+	
+		
+			
+	<div class="banner banner--rectangle banner--rectangle-in-grid">
+		
+			<div class="banner__label"></div>
+		
+		<div class="banner__output"
+			
+				data-banner-position="rectangle"
+			
+			
+			
+			
+			
+			
+			
+		></div>
+	</div>
+
+		
+	
+
+	
+</div>
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block block--label-den-haag block--has-label block--has-sidebar"
+	
+		id="/sectie/den-haag/"
+		data-track-block-click="Den Haag"
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout nmt-layout--sidebar-align-right rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							
+
+
+
+<div data-track-block-click="Den Haag" class="block--label-den-haag">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					<a href="https://www.nrc.nl/index/politiek/">Den Haag</a>
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-3 flexfloat--block-standard">
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/05/stef-blok-mag-ruttes-nieuwe-eu-visie-gaan-uitdragen-a1594439" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/xfEFkkhBRdBSR_kK-0fE-mVyZs8=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/16.jpg|https://images.nrc.nl/zd7RQm68P0L1KdGwq2SQLgeEfvY=/1280x768/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/16.jpg"
+				
+					data-src-320="https://images.nrc.nl/lSFi3TYStak_xTin-qJ1wvEdubY=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/16.jpg|https://images.nrc.nl/xfEFkkhBRdBSR_kK-0fE-mVyZs8=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/16.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/WjNCqaJJdCrRyTNsPijlbGLvvAA=/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/16.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">De Haagse Stemming</h6>
+	
+
+	<h3 class="nmt-item__headline">Stef Blok mag Rutte’s nieuwe EU-visie gaan uitdragen</h3>
+
+	
+		<div class="nmt-item__teaser">In weer een weekend vol FvD-ophef is de landelijke bemoeienis met de gemeenteraadsverkiezingen los gegaan. Met Stef Blok als nieuwe minister van Buitenlandse Zaken gaat de VVD voor oud en vertrouwd.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/01/de-verruwing-en-verharding-van-denk-a1594029" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/n-AJCUjRORl2kypeeKvW7eOzZFc=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/lamyaee.jpg|https://images.nrc.nl/mNrSMnaI6HOCwCs-gYBEnFkih3M=/1280x768/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/lamyaee.jpg"
+				
+					data-src-320="https://images.nrc.nl/JI5lD7ZD46qg_8R_tFPd0m8Dv-8=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/lamyaee.jpg|https://images.nrc.nl/n-AJCUjRORl2kypeeKvW7eOzZFc=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/lamyaee.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/FxnFqy-BmohcqTIjnSGzwBMpz2M=/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/lamyaee.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Column Lamyae Aharouay</h6>
+	
+
+	<h3 class="nmt-item__headline">De  verruwing en verharding van Denk</h3>
+
+	
+		<div class="nmt-item__teaser">Tunahan Kuzu, die zelf op zijn teentjes was getrapt omdat hij door zijn afwijkende mening uit een partij werd gezet, stond voor een Turkse camera te fulmineren over collega's  die anders dan hij hadden gestemd.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/02/28/woede-mh17-nabestaanden-om-wilders-bezoek-moskou-a1594037" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6003616636528029" style="padding-bottom: 60.03616636528029%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/Fy-bA6GpFyfp-xPu456kQrg7V5g=/0x0:1106x664/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25727664-0ac36e.jpg|https://images.nrc.nl/TKyzuHGY84n-OCDEL0wXHGfqIH8=/0x0:1106x664/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25727664-0ac36e.jpg"
+				
+					data-src="https://images.nrc.nl/TKyzuHGY84n-OCDEL0wXHGfqIH8=/0x0:1106x664/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25727664-0ac36e.jpg|https://images.nrc.nl/IgJjDyo94hxmH9YOlzuxtDQmf0M=/0x0:1106x664/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25727664-0ac36e.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/IgJjDyo94hxmH9YOlzuxtDQmf0M=/0x0:1106x664/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25727664-0ac36e.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Rusland</h6>
+	
+
+	<h3 class="nmt-item__headline">Wilders wekt woede tijdens bezoek Moskou</h3>
+
+	
+		<div class="nmt-item__teaser">Nabestaanden van de MH17-ramp eisen excuses van Wilders. Die twittert over vriendschap met Rusland tijdens een bezoek.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+		<a href="https://www.nrc.nl/index/politiek/" class="block__more block__more--default-size">
+			Meer Den Haag
+		</a>
+	
+
+	
+
+	
+</div>
+
+						
+
+					</div>
+
+					
+						
+
+
+
+
+
+<div class="
+	nmt-layout__sidebar
+	block__sidebar
+	
+		nmt-layout__sidebar--has-ad
+		nmt-layout__sidebar--has-ad--bottom
+	
+	">
+
+	
+
+	
+
+	
+	
+	
+
+
+	
+
+	
+		
+			
+	<div class="banner banner--rectangle banner--rectangle-in-grid">
+		
+			<div class="banner__label"></div>
+		
+		<div class="banner__output"
+			
+				data-banner-position="rectangle"
+			
+			
+			
+			
+			
+			
+			
+		></div>
+	</div>
+
+		
+	
+
+	
+</div>
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block block--label-buitenland block--has-label"
+	
+		id="/sectie/buitenland/"
+		data-track-block-click="Buitenland"
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout has-no-nmt-layout-sidebar rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							
+
+
+
+<div data-track-block-click="Buitenland" class="block--label-buitenland">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					<a href="/sectie/buitenland/">Buitenland</a>
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-4 flexfloat--block-standard">
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/de-kardinaal-wist-echt-van-niets-a1594365" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/mxPnO2MHZvjd-f97sH_oG4dtRRU=/0x249:4000x2649/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25809245-720fa0.jpg|https://images.nrc.nl/i4QtPRdAb33h5h_strZJCZ2aqX0=/0x249:4000x2649/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25809245-720fa0.jpg"
+				
+					data-src-320="https://images.nrc.nl/g8mRMvL7hjXCd4Tdi3WFvymxQ08=/0x249:4000x2649/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25809245-720fa0.jpg|https://images.nrc.nl/mxPnO2MHZvjd-f97sH_oG4dtRRU=/0x249:4000x2649/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25809245-720fa0.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/mxPnO2MHZvjd-f97sH_oG4dtRRU=/0x249:4000x2649/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25809245-720fa0.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Misbruikschandaal Australië</h6>
+	
+
+	<h3 class="nmt-item__headline">De kardinaal ‘wist echt van niets’</h3>
+
+	
+		<div class="nmt-item__teaser">De latere kardinaal George Pell was cruciaal voor het verhullen van seksueel misbruik in Australië. Hij komt nu voor de rechter.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/05/israel-wapent-zich-met-nepnieuws-tegen-palestijnen-a1594396" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6003386960203217" style="padding-bottom: 60.033869602032176%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/JP6Fd8DVbnzBnqvUwqV4g2C31Q4=/0x0:1181x709/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data6651369-05c2be.png|https://images.nrc.nl/e1jiUeAbwNyHGwE1Zfz9E-y0UcQ=/0x0:1181x709/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data6651369-05c2be.png"
+				
+					data-src-320="https://images.nrc.nl/v1rGAKmTbP2S_jb_BXVLdl6euXg=/0x0:1181x709/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data6651369-05c2be.png|https://images.nrc.nl/JP6Fd8DVbnzBnqvUwqV4g2C31Q4=/0x0:1181x709/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data6651369-05c2be.png"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/JP6Fd8DVbnzBnqvUwqV4g2C31Q4=/0x0:1181x709/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data6651369-05c2be.png" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Column Carolien Roelants</h6>
+	
+
+	<h3 class="nmt-item__headline">Israël wapent zich met nepnieuws tegen Palestijnen</h3>
+
+	
+		<div class="nmt-item__teaser">Is Mohammed Tamimi echt van zijn fiets gevallen? Dat zegt de Israëlische overheid. Maar waarom zegt ze dat, vraagt Carolien Roelants zich af.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/spd-leden-zeggen-ja-tegen-nieuwe-regering-merkel-a1594346" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/dY5WCMY7X045UzqZMtURsUn8JoE=/0x211:5000x3211/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/9605df4b-31ab-4d4f-ab29-13b72b87e568.jpg|https://images.nrc.nl/WPZAHLw99EvurSTvjbjL_WvGCsY=/0x211:5000x3211/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/9605df4b-31ab-4d4f-ab29-13b72b87e568.jpg"
+				
+					data-src="https://images.nrc.nl/WPZAHLw99EvurSTvjbjL_WvGCsY=/0x211:5000x3211/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/9605df4b-31ab-4d4f-ab29-13b72b87e568.jpg|https://images.nrc.nl/WBrRz_2qVdb0JYmmIk4mUdYkcTc=/0x211:5000x3211/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/9605df4b-31ab-4d4f-ab29-13b72b87e568.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/WBrRz_2qVdb0JYmmIk4mUdYkcTc=/0x211:5000x3211/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/9605df4b-31ab-4d4f-ab29-13b72b87e568.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Grote Coalitie</h6>
+	
+
+	<h3 class="nmt-item__headline">SPD-leden zeggen ‘ja’ tegen nieuwe regering-Merkel</h3>
+
+	
+		<div class="nmt-item__teaser">De leden van de sociaaldemocratische SPD hebben met een ruime meerderheid vóór toetreding tot de Grote Coalitie gestemd. Mogelijk volgende week al kan de nieuwe regering aantreden.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/alles-moet-anders-in-italie-a1594257" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/_Zb4i4mYkkQYQ7e-JAKC8PRS2Io=/0x40:2480x1528/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25779484-6dc387.jpg|https://images.nrc.nl/Emuc9nMsZytxHS1wWKlDNq7c66M=/0x40:2480x1528/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25779484-6dc387.jpg"
+				
+					data-src="https://images.nrc.nl/Emuc9nMsZytxHS1wWKlDNq7c66M=/0x40:2480x1528/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25779484-6dc387.jpg|https://images.nrc.nl/c3BVA6rDRufHJowbY4pGgmyO4cs=/0x40:2480x1528/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25779484-6dc387.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/c3BVA6rDRufHJowbY4pGgmyO4cs=/0x40:2480x1528/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25779484-6dc387.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Verkiezingen Italië</h6>
+	
+
+	<h3 class="nmt-item__headline">Alles moet anders in Italië</h3>
+
+	
+		<div class="nmt-item__teaser">Eén thema beheerst de Italiaanse verkiezingen: verandering. Italianen snakken ernaar. Iedere verkiezing weer. Ook al weten ze dat er niets verandert, schrijft Ilja Leonard Pfeijffer.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+		<a href="/sectie/buitenland/" class="block__more block__more--default-size">
+			Meer Buitenland
+		</a>
+	
+
+	
+
+	
+</div>
+
+						
+
+					</div>
+
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block block--label-economie block--has-label"
+	
+		id="/sectie/economie/"
+		data-track-block-click="Economie"
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout has-no-nmt-layout-sidebar rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							
+
+
+
+<div data-track-block-click="Economie" class="block--label-economie">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					<a href="/sectie/economie/">Economie</a>
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-4 flexfloat--block-standard">
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/03/opl245-levert-shell-fikse-kater-op-a1594309" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/2CWCJPw0PBEpebgvurYcD0i2j14=/0x138:2000x1338/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25831646-3e04d8.jpg|https://images.nrc.nl/tnhdfSvw_-8wYR5IFPCm3xeacGs=/0x138:2000x1338/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25831646-3e04d8.jpg"
+				
+					data-src-320="https://images.nrc.nl/s6vR9WWy7_yhkzvuPvsnh3yqwNo=/0x138:2000x1338/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25831646-3e04d8.jpg|https://images.nrc.nl/2CWCJPw0PBEpebgvurYcD0i2j14=/0x138:2000x1338/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25831646-3e04d8.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/2CWCJPw0PBEpebgvurYcD0i2j14=/0x138:2000x1338/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25831646-3e04d8.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Corruptie</h6>
+	
+
+	<h3 class="nmt-item__headline">‘OPL245’ levert Shell fikse kater op</h3>
+
+	
+		<div class="nmt-item__teaser">Shell en Eni staan vanaf maandag voor de Italiaanse rechter voor corruptie in Nigeria. De hamvraag: wat wist het bedrijf wel en niet?</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/dat-wordt-weer-eindeloos-wachten-bij-de-grens-a1594221" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6001265422334704" style="padding-bottom: 60.01265422334704%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/7KxhYH9QJpk7zSmtfbRi2plsCRA=/0x88:3161x1985/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25723542-01b8ee.jpg|https://images.nrc.nl/t4sqkBhrP6n9imOjBaMyvTkBJV4=/0x88:3161x1985/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25723542-01b8ee.jpg"
+				
+					data-src-320="https://images.nrc.nl/4TDzDs56UnE5hdwZVs8jG_vl9fU=/0x88:3161x1985/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25723542-01b8ee.jpg|https://images.nrc.nl/7KxhYH9QJpk7zSmtfbRi2plsCRA=/0x88:3161x1985/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25723542-01b8ee.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/7KxhYH9QJpk7zSmtfbRi2plsCRA=/0x88:3161x1985/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25723542-01b8ee.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Per vrachtwagen naar Engeland</h6>
+	
+
+	<h3 class="nmt-item__headline">Dat wordt weer eindeloos wachten bij de grens</h3>
+
+	
+		<div class="nmt-item__teaser">De kans op een no deal-Brexit bestaat nog steeds. Voor Nederlandse exporteurs dreigt een nachtmerriescenario. Mee met chauffeur Jaco Kastelein, naar Londen.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/tonnen-wegsluizen-via-het-incassogat-van-ing-a1594284" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/CE1UyDKVFiAd-VkGpB4u1-o05_M=/160x96/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25810295-9c8fb3.jpg|https://images.nrc.nl/xyhv600HULBFkAbEMZ1ze5C56mU=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25810295-9c8fb3.jpg"
+				
+					data-src="https://images.nrc.nl/xyhv600HULBFkAbEMZ1ze5C56mU=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25810295-9c8fb3.jpg|https://images.nrc.nl/qMeqiMaokJwRLyJvuO-cFzgSGig=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25810295-9c8fb3.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/OluRRSiMuJ0xmpt8ILl4ZZ6McuY=/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25810295-9c8fb3.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Spookgeld</h6>
+	
+
+	<h3 class="nmt-item__headline">Tonnen wegsluizen via het incassogat van ING</h3>
+
+	
+		<div class="nmt-item__teaser">Er zit een groot gat in het incassosysteem van Nederlandse banken. Een ‘filantroop’ maakt daar grif gebruik van door tonnen te schenken van een ING-rekening die er niet is.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/heffingen-op-import-kosten-meestal-banen-a1594301" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/wfGPOq-dJYukQ9Z-6K-86ckMN1U=/0x266:4000x2666/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25824125-d610ce.jpg|https://images.nrc.nl/rLhrd7WOhV5AiccpJMy4gw8T1gA=/0x266:4000x2666/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25824125-d610ce.jpg"
+				
+					data-src="https://images.nrc.nl/rLhrd7WOhV5AiccpJMy4gw8T1gA=/0x266:4000x2666/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25824125-d610ce.jpg|https://images.nrc.nl/Dhq5EO3PXvUU0wY4Tv-KBWUtLKI=/0x266:4000x2666/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25824125-d610ce.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/Dhq5EO3PXvUU0wY4Tv-KBWUtLKI=/0x266:4000x2666/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25824125-d610ce.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Amerikaans protectionisme</h6>
+	
+
+	<h3 class="nmt-item__headline">Heffingen op import kósten meestal banen</h3>
+
+	
+		<div class="nmt-item__teaser">Met importheffingen wil Trump de Amerikaanse staalindustrie beschermen. Wat zijn de risico’s en wie betaalt de prijs? Vijf vragen.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+		<a href="/sectie/economie/" class="block__more block__more--default-size">
+			Meer Economie
+		</a>
+	
+
+	
+
+	
+</div>
+
+						
+
+					</div>
+
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block block--label-carriere block--has-label block--has-sidebar"
+	
+		id="/sectie/carriere/"
+		data-track-block-click="Carrière"
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout nmt-layout--sidebar-align-right rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							
+
+
+
+<div data-track-block-click="Carrière" class="block--label-carriere">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					<a href="https://www.nrc.nl/index/carriere/">Carrière</a>
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-3 flexfloat--block-standard">
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/05/de-overgang-naar-een-baan-is-wel-zwaar-a1594380" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/7ki54bWaPudA67dans8UIli_xRg=/0x854:2100x2114/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26022568-cc9ccb.jpg|https://images.nrc.nl/mlQCV5YtWE_oHyUh0tZiiG8RykM=/0x854:2100x2114/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26022568-cc9ccb.jpg"
+				
+					data-src-320="https://images.nrc.nl/wuBWc-64DhTrakXJbRHswH1tbdk=/0x854:2100x2114/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26022568-cc9ccb.jpg|https://images.nrc.nl/7ki54bWaPudA67dans8UIli_xRg=/0x854:2100x2114/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26022568-cc9ccb.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/7ki54bWaPudA67dans8UIli_xRg=/0x854:2100x2114/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26022568-cc9ccb.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Verdienen en uitgeven</h6>
+	
+
+	<h3 class="nmt-item__headline">‘De overgang naar een baan is wel zwaar’</h3>
+
+	
+		<div class="nmt-item__teaser">Lennard Pelzer (22) studeert privaatrecht aan de Universiteit Maastricht. Op dit moment loopt hij stage bij het advocatenbureau Jegers Advocaten. Hij woont bij zijn ouders in Kerkrade.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/reserveer-10-verontwaardiging-voor-jezelf-a1594261" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/wWwHNtvWATez0aPeSU5vufq4iAU=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/bentiggelaar0-2.jpg|https://images.nrc.nl/UayhAgFk-vqaLapZe9sFkz2Z3rg=/1280x768/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/bentiggelaar0-2.jpg"
+				
+					data-src-320="https://images.nrc.nl/s3Iqs9xoEPEXc7ARCX5muv46QEc=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/bentiggelaar0-2.jpg|https://images.nrc.nl/wWwHNtvWATez0aPeSU5vufq4iAU=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/bentiggelaar0-2.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/gSlyyE1Fkc7_qX9gG_87hcH6lcs=/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/bentiggelaar0-2.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Column Ben Tiggelaar</h6>
+	
+
+	<h3 class="nmt-item__headline">Reserveer 10 procent verontwaardiging voor jezelf</h3>
+
+	
+		<div class="nmt-item__teaser">Deze week introduceert Ben Tiggelaar een persoonlijke regel: neem je iemand moreel de maat? Reserveer een deel van die verontwaardiging dan voor jezelf.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/wie-wil-blijven-moet-veranderen-a1594262" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/-oNHQv0DBbQLKR5iS5dDd64x45I=/0x0:4000x2400/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25456960-418920.jpg|https://images.nrc.nl/Ef_qbePO0cP6zwlHBA6WQSddZAo=/0x0:4000x2400/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25456960-418920.jpg"
+				
+					data-src="https://images.nrc.nl/Ef_qbePO0cP6zwlHBA6WQSddZAo=/0x0:4000x2400/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25456960-418920.jpg|https://images.nrc.nl/7pyKFelbxKIfDgFeydQxMFIof4U=/0x0:4000x2400/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25456960-418920.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/7pyKFelbxKIfDgFeydQxMFIof4U=/0x0:4000x2400/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25456960-418920.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Ricardo Semler</h6>
+	
+
+	<h3 class="nmt-item__headline">‘Nederland is een behoorlijk anarchistisch land’</h3>
+
+	
+		<div class="nmt-item__teaser">Het zijn drukke tijden voor Ricardo Semler. Met zijn onconventionele bedrijfsfilosofie wil de Braziliaanse ondernemer organisaties voorbereiden op een onvoorspelbare toekomst.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+		<a href="https://www.nrc.nl/index/carriere/" class="block__more block__more--default-size">
+			Meer carrière
+		</a>
+	
+
+	
+
+	
+</div>
+
+						
+
+					</div>
+
+					
+						
+
+
+
+
+
+<div class="
+	nmt-layout__sidebar
+	block__sidebar
+	
+		nmt-layout__sidebar--has-ad
+		nmt-layout__sidebar--has-ad--bottom
+	
+	">
+
+	
+
+	
+
+	
+	
+	
+
+
+	
+
+	
+		
+			
+	<div class="banner banner--rectangle banner--rectangle-in-grid">
+		
+			<div class="banner__label"></div>
+		
+		<div class="banner__output"
+			
+				data-banner-position="rectangle"
+			
+			
+			
+			
+			
+			
+			
+		></div>
+	</div>
+
+		
+	
+
+	
+</div>
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block "
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout has-no-nmt-layout-sidebar rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							<div class="flexfloat flexfloat--block-2">
+								
+
+
+
+<section class="block--focus block--focus__section-None flexfloat__item"
+		 data-type="None"
+		 data-track-block-click="Video &amp;  Podcast">
+	<div class="block--focus__inner">
+		<header class=block__header>
+			<h3 class="block__label">
+				
+					<a href="https://www.nrc.nl/index/video">Video &amp;  Podcast</a>
+				
+			</h3>
+		</header>
+		<div class="flexfloat--block-focus-large">
+			
+			
+<div class="nmt-item flexfloat__item nmt-item--type-podcast nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/02/27/the-presidential-podcast-48-van-woede-en-wapens-a1593770" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+		<div class="block--focus__img">
+			
+			
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/mXb62sNLcoOokuaonSWXm-oHKPE=/0x0:1800x1080/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/26141042458_b3f516d4b2_o.jpg"
+				
+				
+				
+					data-src="https://images.nrc.nl/48IQ3DRa-my9CHcBDSRY522VbYw=/0x0:1800x1080/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/26141042458_b3f516d4b2_o.jpg|https://images.nrc.nl/3-YqRCDkEyDdxQCZlnaOBA37jXU=/0x0:1800x1080/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/26141042458_b3f516d4b2_o.jpg"
+				
+					data-src-320="https://images.nrc.nl/omFT21d_kWFgL5IzkN2FNwFdzZo=/0x0:1800x1080/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/26141042458_b3f516d4b2_o.jpg|https://images.nrc.nl/48IQ3DRa-my9CHcBDSRY522VbYw=/0x0:1800x1080/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/26141042458_b3f516d4b2_o.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/48IQ3DRa-my9CHcBDSRY522VbYw=/0x0:1800x1080/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/26141042458_b3f516d4b2_o.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+		</div>
+
+	
+
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="block--focus__flag nmt-item__flag">Podcast</h6>
+	
+	<h3 class="block--focus__headline--large nmt-item__headline">The Presidential Podcast 48: Van Woede en Wapens</h3>
+	
+		<div class="block--focus__teaser nmt-item__teaser">NRC-correspondent Guus Valk en VPRO-presentator Chris Kijne spreken over het toestaan van wapens en de woede in Amerika na opnieuw een 'school shooting'.</div>
+	
+
+			</header>
+		</a>
+	</div>
+</div>
+		</div>
+		<div class="flexfloat--block-focus">
+			
+				
+<div class="nmt-item flexfloat__item nmt-item--type-podcast nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/02/24/haagse-zaken-23-waarom-kiezers-kiezen-wat-ze-kiezen-a1593395" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+		<div class="block--focus__item__img-container">
+			
+			
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/bRJd01apILeL9Q_GZgyE3X0pLM0=/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/asscherliggend.jpg"
+				
+				
+				
+					data-src="https://images.nrc.nl/QV3FsR8IktkUcDecAF3-1P4LeqA=/160x96/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/asscherliggend.jpg|https://images.nrc.nl/VzOhWa1EOkNYotWY_ZKk-wMI33A=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/asscherliggend.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/g9zBjGrkJr8RuRuTYV4R2-SQrzk=/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/asscherliggend.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+		</div>
+	
+
+
+			</div>
+
+			<header class="nmt-item__content">
+				
+
+	
+ 		<h6 class="nmt-item__flag">Podcast</h6>
+ 	
+
+ 	<h3 class="nmt-item__headline">Haagse Zaken #23: Waarom kiezers kiezen wat ze kiezen</h3>
+
+ 	
+ 		<div class="nmt-item__teaser">Het Nationaal Kiezersonderzoek maakt duidelijk waarom, wanneer en hoe kiezers stemmen.</div>
+ 	
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+<div class="nmt-item flexfloat__item nmt-item--type-video nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/02/02/holleeder-de-finale-a1590824" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+		<div class="block--focus__item__img-container">
+			
+			
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/1sxbtSzz_4W74yZ9Dn3PvxzWD4w=/66x0:1116x630/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/social-foto.jpg"
+				
+				
+				
+					data-src="https://images.nrc.nl/1sxbtSzz_4W74yZ9Dn3PvxzWD4w=/66x0:1116x630/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/social-foto.jpg|https://images.nrc.nl/BYDsLd_MfbWCuByhgGGMSOeFhFI=/66x0:1116x630/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/social-foto.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/xg4n2daqrpz1qDG9FDr0Evvt-NI=/66x0:1116x630/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/social-foto.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+		</div>
+	
+
+
+			</div>
+
+			<header class="nmt-item__content">
+				
+
+	
+ 		<h6 class="nmt-item__flag">Audiovisueel dossier</h6>
+ 	
+
+ 	<h3 class="nmt-item__headline">Holleeder - De Finale</h3>
+
+ 	
+ 		<div class="nmt-item__teaser">Wie zijn de hoofdrolspelers in de strafzaak tegen Willem Holleeder? En hoe heeft ‘De Neus’ de onderwereld de afgelopen decennia vormgegeven? Misdaadredacteur Jan Meeus geeft een uniek inkijkje in audio en video.</div>
+ 	
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+<div class="nmt-item flexfloat__item nmt-item--type-podcast nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/02/17/haagse-zaken-22-de-leugen-de-val-en-de-teflonpartij-a1592514" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+		<div class="block--focus__item__img-container">
+			
+			
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/iqsYDJfqbW1aGalqvbbecjG6Bcw=/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/halbehugtfeature.jpg"
+				
+				
+				
+					data-src="https://images.nrc.nl/ToGdcpHFZYifL1UrLs04Cs1wjHk=/160x96/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/halbehugtfeature.jpg|https://images.nrc.nl/hesWwIm5xvLTFL2f8q1xzzLuzAM=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/halbehugtfeature.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/AQ4yFjIOy30qPaDe7JfS_Iin4cY=/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/halbehugtfeature.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+		</div>
+	
+
+
+			</div>
+
+			<header class="nmt-item__content">
+				
+
+	
+ 		<h6 class="nmt-item__flag">Podcast</h6>
+ 	
+
+ 	<h3 class="nmt-item__headline">Haagse Zaken #22: De leugen, de val en de Teflonpartij</h3>
+
+ 	
+ 		<div class="nmt-item__teaser">Halbe Zijlstra sloot zich aan bij een heel rijtje VVD-bewindslieden die onlangs het veld moesten ruimen. De partij lijkt er weinig onder te lijden. Of is dat schijn?</div>
+ 	
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+		
+			<a href="https://www.nrc.nl/index/video" class="block__more block__more--default-size">
+				Meer video &amp; podcast
+			</a>
+		
+	</div>
+</section>
+
+
+
+
+
+<section class="block--focus block--focus__section-None flexfloat__item"
+		 data-type="None"
+		 data-track-block-click="In beeld">
+	<div class="block--focus__inner">
+		<header class=block__header>
+			<h3 class="block__label">
+				
+					<a href="https://www.nrc.nl/index/inbeeld">In beeld</a>
+				
+			</h3>
+		</header>
+		<div class="flexfloat--block-focus-large">
+			
+			
+<div class="nmt-item flexfloat__item nmt-item--type-inbeeld nmt-item--image-span-2 no-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/carla-kogelman-paralympisch-zwemteam-a1594240" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+		<div class="block--focus__img">
+			
+			
+	
+		
+		
+		
+		
+		<figure data-aspect="0.60009765625" style="padding-bottom: 60.009765625%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/_434BYUVLvU2x4ILveK7uQGZU-k=/0x0:2048x1229/160x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/03/0503paralympiers.jpg"
+				
+				
+				
+					data-src="https://images.nrc.nl/gwQnbLSyS4SwSnsxPXC9vF3tLCc=/0x0:2048x1229/640x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/03/0503paralympiers.jpg|https://images.nrc.nl/64jEYCzv2-CfJ69CWHiB7vEhOWA=/0x0:2048x1229/1280x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/03/0503paralympiers.jpg"
+				
+					data-src-320="https://images.nrc.nl/R-_X-2ZT4uqZnzGiXjw-nHEjnZI=/0x0:2048x1229/320x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/03/0503paralympiers.jpg|https://images.nrc.nl/gwQnbLSyS4SwSnsxPXC9vF3tLCc=/0x0:2048x1229/640x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/03/0503paralympiers.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/gwQnbLSyS4SwSnsxPXC9vF3tLCc=/0x0:2048x1229/640x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/03/0503paralympiers.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+		</div>
+
+	
+
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="block--focus__flag nmt-item__flag">Sport</h6>
+	
+	<h3 class="block--focus__headline--large nmt-item__headline">Paralympisch zwemteam</h3>
+	
+
+			</header>
+		</a>
+	</div>
+</div>
+		</div>
+		<div class="flexfloat--block-focus">
+			
+				
+<div class="nmt-item flexfloat__item nmt-item--type-inbeeld nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/03/de-indrukwekkendste-fotos-van-de-afgelopen-week-70-a1594099" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+		<div class="block--focus__item__img-container">
+			
+			
+	
+		
+		
+		
+		
+		<figure data-aspect="0.60009765625" style="padding-bottom: 60.009765625%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/J_6WAn4VnHuwnI8suV8x47XFJvU=/0x137:2048x1366/160x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/03/0403buda.jpg"
+				
+				
+				
+					data-src="https://images.nrc.nl/J_6WAn4VnHuwnI8suV8x47XFJvU=/0x137:2048x1366/160x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/03/0403buda.jpg|https://images.nrc.nl/dnq1JFza_qjDSwWQhDs3AEQhj9s=/0x137:2048x1366/320x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/03/0403buda.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/ZiPjjLTec3H1NcwqMatJqylSKiU=/0x137:2048x1366/640x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/03/0403buda.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+		</div>
+	
+
+
+			</div>
+
+			<header class="nmt-item__content">
+				
+
+	
+ 		<h6 class="nmt-item__flag">In beeld</h6>
+ 	
+
+ 	<h3 class="nmt-item__headline">De Indrukwekkendste foto’s van de afgelopen week</h3>
+
+ 	
+ 		<div class="nmt-item__teaser">De fotoredactie van NRC selecteert elke week de indrukwekkendste, mooiste en beste nieuwsfoto’s die binnenkomen op de redactie. (Let op: deze serie kan schokkende beelden bevatten).</div>
+ 	
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+<div class="nmt-item flexfloat__item nmt-item--type-inbeeld nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/01/naar-de-kerk-met-je-ar-15-geweer-a1594068" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+		<div class="block--focus__item__img-container">
+			
+			
+	
+		
+		
+		
+		
+		<figure data-aspect="0.60009765625" style="padding-bottom: 60.009765625%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/ihfkhCBUeaAz7lZQ_-z1liIKt98=/0x72:2048x1301/160x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/01/0103INBvuurwapenkerk08.jpg"
+				
+				
+				
+					data-src="https://images.nrc.nl/ihfkhCBUeaAz7lZQ_-z1liIKt98=/0x72:2048x1301/160x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/01/0103INBvuurwapenkerk08.jpg|https://images.nrc.nl/wsX1SdsLjLzL7Ew0AWvKrQsGAGw=/0x72:2048x1301/320x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/01/0103INBvuurwapenkerk08.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/DZyShdLizN7E33b1JXMWgMn_pPc=/0x72:2048x1301/640x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/01/0103INBvuurwapenkerk08.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+		</div>
+	
+
+
+			</div>
+
+			<header class="nmt-item__content">
+				
+
+	
+ 		<h6 class="nmt-item__flag">Vuurwapens</h6>
+ 	
+
+ 	<h3 class="nmt-item__headline">Naar de kerk met je AR-15 geweer</h3>
+
+ 	
+ 		<div class="nmt-item__teaser">Zo'n 250 koppels zijn woensdag in een kerk in het Amerikaanse Newfoundland, Pennsylvania, gezegend met in hun handen de semi-automatische AR-15</div>
+ 	
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+<div class="nmt-item flexfloat__item nmt-item--type-inbeeld nmt-item--image-span-2 no-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/01/david-goldblatt-70-jaar-zuid-afrikaanse-geschiedenis-in-fotos-a1593897" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+		<div class="block--focus__item__img-container">
+			
+			
+	
+		
+		
+		
+		
+		<figure data-aspect="0.60009765625" style="padding-bottom: 60.009765625%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/waHLXl4R5K3JvvxLfIS-IYRf1JA=/0x0:2048x1229/160x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/02/0103culgoldblatt1.jpg"
+				
+				
+				
+					data-src="https://images.nrc.nl/waHLXl4R5K3JvvxLfIS-IYRf1JA=/0x0:2048x1229/160x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/02/0103culgoldblatt1.jpg|https://images.nrc.nl/mQOLxd8s7UOHzjb33aQVNK05FXI=/0x0:2048x1229/320x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/02/0103culgoldblatt1.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/6PJo7id-cTq00Diabwpoqcr4VCA=/0x0:2048x1229/640x/filters:no_upscale()/s3/static.nrc.nl/inbeeld/files/2018/02/0103culgoldblatt1.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+		</div>
+	
+
+
+			</div>
+
+			<header class="nmt-item__content">
+				
+
+	
+ 		<h6 class="nmt-item__flag">Centre Pompidou</h6>
+ 	
+
+ 	<h3 class="nmt-item__headline">David Goldblatt: 70 jaar Zuid-Afrikaanse geschiedenis in foto’s</h3>
+
+ 	
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+		
+			<a href="https://www.nrc.nl/index/inbeeld" class="block__more block__more--default-size">
+				Meer In Beeld
+			</a>
+		
+	</div>
+</section>
+
+
+							</div>
+						
+
+					</div>
+
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block block--label-opinie block--has-label block--has-sidebar"
+	
+		id="/sectie/opinie/"
+		data-track-block-click="Opinie"
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout nmt-layout--sidebar-align-right rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							
+
+
+
+<div data-track-block-click="Opinie" class="block--label-opinie">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					<a href="/sectie/opinie/">Opinie</a>
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-3 flexfloat--block-standard">
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/het-is-weer-tijd-voor-tegenhangen-pvda-a1594251" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.5999624906226556" style="padding-bottom: 59.99624906226556%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/0XkO25U7zUCEDF14ewBpyvz4SIU=/0x0:5332x3199/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25783015-6338f5.jpg|https://images.nrc.nl/a9glcU_2A6BueUpR5feunhcJ2ac=/0x0:5332x3199/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25783015-6338f5.jpg"
+				
+					data-src-320="https://images.nrc.nl/eaai54Tb28iir5S3ljecXcna958=/0x0:5332x3199/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25783015-6338f5.jpg|https://images.nrc.nl/0XkO25U7zUCEDF14ewBpyvz4SIU=/0x0:5332x3199/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25783015-6338f5.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/0XkO25U7zUCEDF14ewBpyvz4SIU=/0x0:5332x3199/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25783015-6338f5.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Ideeënstrijd</h6>
+	
+
+	<h3 class="nmt-item__headline">Er is tóch hoop voor de sociaal-democratie</h3>
+
+	
+		<div class="nmt-item__teaser">Ondanks weglopende kiezers blijft de vraag naar sociaal-democratische politiek enorm, meent Ruud Koole. "Ik voorzie voor de sociaal-democratie een schitterende toekomst.”</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/04/berlijn-toespraak-met-alleen-uitdragen-eigen-gelijk-komt-rutte-niet-ver-in-europa-a1594390" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/BomaSuU95RlSNgfgFTv3gzFZdp8=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data6589525-93ab6e.png|https://images.nrc.nl/tVVTu4Tguxlu4Ro8dNyTiguCCZs=/1280x768/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data6589525-93ab6e.png"
+				
+					data-src-320="https://images.nrc.nl/x_c1kK11_Blls9LIY9uOmTsfAHw=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data6589525-93ab6e.png|https://images.nrc.nl/BomaSuU95RlSNgfgFTv3gzFZdp8=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data6589525-93ab6e.png"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/iK5NCVTE5XZdB7rA2EHJvKUCi2U=/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data6589525-93ab6e.png" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Commentaar</h6>
+	
+
+	<h3 class="nmt-item__headline">Met alleen uitdragen  eigen gelijk komt Rutte niet ver in Europa</h3>
+
+	
+		<div class="nmt-item__teaser">De Europese samenwerking gaat naar een hogere versnelling. De eeuwige dwarsligger zijn en steeds afremmen is niet bevorderlijk voor de positie van Nederland.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/01/een-scherpe-neus-voor-valse-schijn-a1594113" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/q9VwLCgq62Ag9THIynQ-vRwUm9o=/160x96/smart/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/Michal%20Korzec1.jpg|https://images.nrc.nl/SdLBireFOMhTRpXmqELIdnhcxlo=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/Michal%20Korzec1.jpg"
+				
+					data-src="https://images.nrc.nl/SdLBireFOMhTRpXmqELIdnhcxlo=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/Michal%20Korzec1.jpg|https://images.nrc.nl/fBzIAgwSxCSWHhoiywQ7LPaKNe0=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/Michal%20Korzec1.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/9ii9zvWJT1iGmGLXc2nVONyCHUU=/640x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/Michal%20Korzec1.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">De Laatste Bladzijde</h6>
+	
+
+	<h3 class="nmt-item__headline">Een scherpe neus voor valse schijn</h3>
+
+	
+		<div class="nmt-item__teaser">Michal Korzec (1945-2018) zocht de controverse in alle landen waar hij verbleef. In Nederland was hij mede-oprichter van de Dolle Mina-beweging.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+		<a href="/sectie/opinie/" class="block__more block__more--default-size">
+			Meer Opinie
+		</a>
+	
+
+	
+
+	
+</div>
+
+						
+
+					</div>
+
+					
+						
+
+
+
+
+
+<div class="
+	nmt-layout__sidebar
+	block__sidebar
+	
+		nmt-layout__sidebar--has-ad
+		nmt-layout__sidebar--has-ad--bottom
+	
+	">
+
+	
+
+	
+
+	
+	
+	
+
+
+	
+
+	
+		
+			
+	<div class="banner banner--rectangle banner--rectangle-in-grid">
+		
+			<div class="banner__label"></div>
+		
+		<div class="banner__output"
+			
+				data-banner-position="rectangle"
+			
+			
+			
+			
+			
+			
+			
+		></div>
+	</div>
+
+		
+	
+
+	
+</div>
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block "
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout has-no-nmt-layout-sidebar rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							<div class="flexfloat flexfloat--block-lists">
+								
+
+
+
+	<div class="block--theme-list block--None flexfloat__item" data-track-block-click="Wetenschap">
+		<div class="block--theme-list__inner block--None__inner">
+
+			<section class="block--theme-list__section block--theme-list__section--type-None block--label-None" data-type="None">
+				<h4 class="block--theme-list__heading">
+					
+						<a href="/sectie/wetenschap/">
+							Wetenschap
+						</a>
+					
+				</h4>
+				<ul class="block--theme-list__items">
+
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/03/autoritaire-leider-is-vooral-geliefd-bij-walgers-a1594280" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6001265422334704" style="padding-bottom: 60.01265422334704%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/ass0dlnd7B8uhAX6mi9mucpxwGc=/0x0:3161x1897/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25720791-8f0183.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/ass0dlnd7B8uhAX6mi9mucpxwGc=/0x0:3161x1897/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25720791-8f0183.jpg|https://images.nrc.nl/o5TCy1H8bcOv-2EvjiImAaRkxLA=/0x0:3161x1897/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25720791-8f0183.jpg"
+				
+					data-src="https://images.nrc.nl/o5TCy1H8bcOv-2EvjiImAaRkxLA=/0x0:3161x1897/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25720791-8f0183.jpg|https://images.nrc.nl/FgOow22F1S_4rij5kEFWv8ar74E=/0x0:3161x1897/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25720791-8f0183.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/FgOow22F1S_4rij5kEFWv8ar74E=/0x0:3161x1897/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25720791-8f0183.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Gedrags-afweersysteem</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Autoritaire leider is vooral geliefd bij walgers</h3>
+											<div class="nmt-item__teaser">Mensen die anderen snel vies vinden ruiken steunen dictators, zegt een persbericht van de Stockholmse universiteit.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/02/de-geboorte-van-de-staat-was-een-zondeval-a1594265" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.5997506234413965" style="padding-bottom: 59.97506234413965%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/0FIXs9RO5RYUcUkVwl1JWWHgatA=/54x0:856x481/160x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/staat.png"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/0FIXs9RO5RYUcUkVwl1JWWHgatA=/54x0:856x481/160x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/staat.png|https://images.nrc.nl/VGcSbJFLMVWmH5SzX80LOgtLFC4=/54x0:856x481/320x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/staat.png"
+				
+					data-src="https://images.nrc.nl/VGcSbJFLMVWmH5SzX80LOgtLFC4=/54x0:856x481/320x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/staat.png|https://images.nrc.nl/zao96ijglBwlcQ1U8EqAefYY0Fo=/54x0:856x481/640x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/staat.png"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/zao96ijglBwlcQ1U8EqAefYY0Fo=/54x0:856x481/640x/filters:no_upscale()/s3/static.nrc.nl/uploads/2018/03/04/staat.png" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Politicologie</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">De geboorte van de staat was een zondeval</h3>
+											<div class="nmt-item__teaser">Met het ontstaan van de eerste staten moest de mens zijn vrije, egalitaire leven opgeven. Dat betoogt politicoloog James Scott in zijn nieuwste boek. Hij vergeet dat ook staten leren.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/02/welke-ballast-houdt-de-vrachtwagen-bij-storm-overeind-a1594245" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/HLSiOtDxMeszMb3bir7fHaUtC3k=/0x400:6000x4000/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25692302-3a1222.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/HLSiOtDxMeszMb3bir7fHaUtC3k=/0x400:6000x4000/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25692302-3a1222.jpg|https://images.nrc.nl/zMA3cTip_ivbTOoN4tVWax1G6Fs=/0x400:6000x4000/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25692302-3a1222.jpg"
+				
+					data-src="https://images.nrc.nl/zMA3cTip_ivbTOoN4tVWax1G6Fs=/0x400:6000x4000/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25692302-3a1222.jpg|https://images.nrc.nl/s1El6DqkY79xYsnv7zZ1P7EULaI=/0x400:6000x4000/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25692302-3a1222.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/s1El6DqkY79xYsnv7zZ1P7EULaI=/0x400:6000x4000/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25692302-3a1222.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Alledaagse wetenschap</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Welke ballast houdt de vrachtwagen bij storm overeind?</h3>
+											<div class="nmt-item__teaser">Wekelijks stuit Karel Knip in de alledaagse werkelijkheid op raadsels en onbegrijpelijke verschijnselen. Deze week: meer over algoritmen, metaforen en omwaaiende vrachtwagens.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/02/wanneer-straalden-de-eerste-sterren-in-het-heelal-a1594258" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/bnY1xlw_Oyr7z5-kdUvRGqsj_BI=/0x172:2550x1702/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25753472-c0b63f.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/bnY1xlw_Oyr7z5-kdUvRGqsj_BI=/0x172:2550x1702/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25753472-c0b63f.jpg|https://images.nrc.nl/qqDrMjEHL23WmqlLplIHNXxdQyc=/0x172:2550x1702/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25753472-c0b63f.jpg"
+				
+					data-src="https://images.nrc.nl/qqDrMjEHL23WmqlLplIHNXxdQyc=/0x172:2550x1702/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25753472-c0b63f.jpg|https://images.nrc.nl/Nvb_n_9NkpAYK0DDPjfP7cFWztw=/0x172:2550x1702/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25753472-c0b63f.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/Nvb_n_9NkpAYK0DDPjfP7cFWztw=/0x172:2550x1702/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25753472-c0b63f.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Astronomie</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Wanneer straalden de eerste sterren in het heelal?</h3>
+											<div class="nmt-item__teaser">Het tijdstip waarop de eerste sterren in het heelal begonnen te stralen is gemeten: 180 miljoen jaar na de oerknal. Astronomen leidden het af aan veranderingen in de kosmische achtergrondstraling.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+
+				</ul>
+			</section>
+
+			
+				<a href="/sectie/wetenschap/" class="block__more block--theme-list__more block--None__more">
+					Meer Wetenschap
+				</a>
+			
+
+		</div>
+	</div>
+
+
+
+
+	<div class="block--theme-list block--None flexfloat__item" data-track-block-click="Cultuur">
+		<div class="block--theme-list__inner block--None__inner">
+
+			<section class="block--theme-list__section block--theme-list__section--type-None block--label-None" data-type="None">
+				<h4 class="block--theme-list__heading">
+					
+						<a href="/index/cultuur/">
+							Cultuur
+						</a>
+					
+				</h4>
+				<ul class="block--theme-list__items">
+
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/02/zo-veelzijdig-kan-de-liefde-zijn-a1594126" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.5996204933586338" style="padding-bottom: 59.96204933586338%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/YOSpsU5Cm_WH1O8NIKvG44nDZHQ=/0x0:1054x632/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25711552-69b61d.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/YOSpsU5Cm_WH1O8NIKvG44nDZHQ=/0x0:1054x632/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25711552-69b61d.jpg|https://images.nrc.nl/YpVILA1Ir5zNBTGARvHXgsAsuNA=/0x0:1054x632/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25711552-69b61d.jpg"
+				
+					data-src="https://images.nrc.nl/YpVILA1Ir5zNBTGARvHXgsAsuNA=/0x0:1054x632/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25711552-69b61d.jpg|https://images.nrc.nl/kbjdinW9A-UXCPHqeaM6usc2ZcY=/0x0:1054x632/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25711552-69b61d.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/kbjdinW9A-UXCPHqeaM6usc2ZcY=/0x0:1054x632/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25711552-69b61d.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Recensie</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Zo veelzijdig kan de liefde zijn</h3>
+											<div class="nmt-item__teaser">Het laatste deel van de trilogie van de Britse schrijfster Jane Gardam gaat over een bijfiguur uit de twee eerdere delen: een jongetje dat ondanks een hoop pech een succesvol advocaat wordt.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/02/dit-boek-is-zo-meta-als-de-pest-a1594118" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6000564493367203" style="padding-bottom: 60.00564493367203%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/cLd_JP-U2wtlhKNwEKVfzcPPDJ8=/0x1981:3543x4107/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25746079-05ced3.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/cLd_JP-U2wtlhKNwEKVfzcPPDJ8=/0x1981:3543x4107/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25746079-05ced3.jpg|https://images.nrc.nl/BsC-JVvxy6PUr5kXLaDa3PXmBao=/0x1981:3543x4107/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25746079-05ced3.jpg"
+				
+					data-src="https://images.nrc.nl/BsC-JVvxy6PUr5kXLaDa3PXmBao=/0x1981:3543x4107/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25746079-05ced3.jpg|https://images.nrc.nl/Oams_T2-xFd14HGpzHSQSyXCRP8=/0x1981:3543x4107/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25746079-05ced3.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/Oams_T2-xFd14HGpzHSQSyXCRP8=/0x1981:3543x4107/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25746079-05ced3.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">P.F. Thomése</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">‘Dit boek is zo meta als de pest’</h3>
+											<div class="nmt-item__teaser">Zijn derde Kessels-roman verscheen toen niemand dat nog verwachtte. De vunzigheid is als vanouds, de nostalgie betekenisvoller dan ooit.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/02/27/herstelt-hollywood-zich-met-een-houdini-act-van-metoo-a1593796" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6001006036217305" style="padding-bottom: 60.01006036217304%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/rfco-i2IGNi4P26_HXCckW0gRx0=/0x265:3976x2651/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/data25655947-a7692e.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/rfco-i2IGNi4P26_HXCckW0gRx0=/0x265:3976x2651/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/data25655947-a7692e.jpg|https://images.nrc.nl/Rv1k1SD2pIIRHIpa16J-sritowU=/0x265:3976x2651/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/data25655947-a7692e.jpg"
+				
+					data-src="https://images.nrc.nl/Rv1k1SD2pIIRHIpa16J-sritowU=/0x265:3976x2651/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/data25655947-a7692e.jpg|https://images.nrc.nl/m6XgFuBkduCP84Hy1fNUReFkaEI=/0x265:3976x2651/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/data25655947-a7692e.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/m6XgFuBkduCP84Hy1fNUReFkaEI=/0x265:3976x2651/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/02/data25655947-a7692e.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Oscars en #MeToo</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Herstelt Hollywood zich met een Houdini-act van #MeToo?</h3>
+											<div class="nmt-item__teaser">De schaduw van Harvey Weinstein hing over de campagne voor het 90ste Oscargala. Nog vorig jaar gold hij als de ongekroonde koning van de Academy Awards.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/02/vrouwen-voor-60000-euro-a1594123" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.5998711340206185" style="padding-bottom: 59.98711340206185%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/yKRmu6nHSypBVkBoZMQ49N3pGhk=/0x6:1552x937/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716232-51537c.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/yKRmu6nHSypBVkBoZMQ49N3pGhk=/0x6:1552x937/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716232-51537c.jpg|https://images.nrc.nl/2dWI71qIVytx_Lp4iIdc7htbOMI=/0x6:1552x937/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716232-51537c.jpg"
+				
+					data-src="https://images.nrc.nl/2dWI71qIVytx_Lp4iIdc7htbOMI=/0x6:1552x937/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716232-51537c.jpg|https://images.nrc.nl/_iJYpcQJLKtNqTLjMzRfLTXxRj0=/0x6:1552x937/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716232-51537c.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/_iJYpcQJLKtNqTLjMzRfLTXxRj0=/0x6:1552x937/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716232-51537c.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Boekrecensie</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Vrouwen voor   60.000 euro</h3>
+											<div class="nmt-item__teaser">Criminaliteit door migranten is een belangrijk thema in de Italiaanse verkiezingen van zondag. Maar de vrouwenhandel door Nigeriaanse bendes is daarbij een blinde vlek. </div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+
+				</ul>
+			</section>
+
+			
+				<a href="/index/cultuur/" class="block__more block--theme-list__more block--None__more">
+					Meer Cultuur
+				</a>
+			
+
+		</div>
+	</div>
+
+
+
+
+	<div class="block--theme-list block--None flexfloat__item" data-track-block-click="Tech en Media">
+		<div class="block--theme-list__inner block--None__inner">
+
+			<section class="block--theme-list__section block--theme-list__section--type-None block--label-None" data-type="None">
+				<h4 class="block--theme-list__heading">
+					
+						<a href="/sectie/tech-media/">
+							Tech en Media
+						</a>
+					
+				</h4>
+				<ul class="block--theme-list__items">
+
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/02/metro-gelooft-in-artikelen-betaald-door-adverteerders-a1594236" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.5997782705099778" style="padding-bottom: 59.97782705099778%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/mL90Jp0tDj3b5KwbzTYcS8jjz70=/0x0:902x541/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/metro-liggend.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/mL90Jp0tDj3b5KwbzTYcS8jjz70=/0x0:902x541/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/metro-liggend.jpg|https://images.nrc.nl/stdNhlltkrYWdeePlaVYZfvGw8E=/0x0:902x541/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/metro-liggend.jpg"
+				
+					data-src="https://images.nrc.nl/stdNhlltkrYWdeePlaVYZfvGw8E=/0x0:902x541/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/metro-liggend.jpg|https://images.nrc.nl/KMW9fvMzOzMd_b_7SInYmXDndTA=/0x0:902x541/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/metro-liggend.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/KMW9fvMzOzMd_b_7SInYmXDndTA=/0x0:902x541/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/metro-liggend.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Gratis krant</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Metro gelooft in artikelen betaald door adverteerders</h3>
+											<div class="nmt-item__teaser">Treinreizigers kijken liever op hun telefoon. En adverteerders vluchten naar Google en Facebook. Toch is gratis krant Metro nog springlevend, zegt hoofdredacteur Arjan Paans. </div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/01/waarom-betaal-ik-als-ik-toch-niet-kijk-a1594137" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/2_1SEiHLKeCXXzGGy0RCsN-ftLU=/0x218:3500x2318/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760312-589ba2.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/2_1SEiHLKeCXXzGGy0RCsN-ftLU=/0x218:3500x2318/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760312-589ba2.jpg|https://images.nrc.nl/zTLcyt6OOnD21jzZp706Us94EFs=/0x218:3500x2318/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760312-589ba2.jpg"
+				
+					data-src="https://images.nrc.nl/zTLcyt6OOnD21jzZp706Us94EFs=/0x218:3500x2318/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760312-589ba2.jpg|https://images.nrc.nl/bkP_-j1ZtpMuiqYIs-QIS3G64Iw=/0x218:3500x2318/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760312-589ba2.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/bkP_-j1ZtpMuiqYIs-QIS3G64Iw=/0x218:3500x2318/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760312-589ba2.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Referendum</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Overal in Europa groeit kritiek op  publieke  omroep</h3>
+											<div class="nmt-item__teaser">Zwitserland stemt zondag over de toekomst van de publieke omroep SRG/SSR. Ook in andere Europese landen wordt het functioneren van de openbare omroepen ter discussie gesteld.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/02/porno-en-erotica-voor-koninklijke-bibliotheek-a1594266" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.5997109826589595" style="padding-bottom: 59.97109826589595%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/TQqthkUybZNZb0bGJIEMapcNNyc=/0x27:692x442/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/web_0203bineroticabiblio.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/TQqthkUybZNZb0bGJIEMapcNNyc=/0x27:692x442/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/web_0203bineroticabiblio.jpg|https://images.nrc.nl/uC6wVggQsZL7xR1Ok2ZzUdtyT5o=/0x27:692x442/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/web_0203bineroticabiblio.jpg"
+				
+					data-src="https://images.nrc.nl/uC6wVggQsZL7xR1Ok2ZzUdtyT5o=/0x27:692x442/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/web_0203bineroticabiblio.jpg|https://images.nrc.nl/s1dJLnA4Sx-6T-TUqgZoNkHJsIU=/0x27:692x442/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/web_0203bineroticabiblio.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/s1dJLnA4Sx-6T-TUqgZoNkHJsIU=/0x27:692x442/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/web_0203bineroticabiblio.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Erotica</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Porno en erotica voor Koninklijke Bibliotheek</h3>
+											<div class="nmt-item__teaser">De KB heeft vrijdag een particuliere verzameling erotische en pornografische boeken en tijdschriften gekocht.  Het gaat om een verzameling van ruim 1.500 stuks. </div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/02/de-raadkamer-is-een-misdaadprogramma-zonder-hijgerigheid-a1594207" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/cLLZVPGjv40RfDwJfKI8T61oxc0=/86x0:1366x768/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data9744543-d43479.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/cLLZVPGjv40RfDwJfKI8T61oxc0=/86x0:1366x768/160x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data9744543-d43479.jpg|https://images.nrc.nl/_zpPtc8ezQ0pVj0DENJ5wWmUFFA=/86x0:1366x768/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data9744543-d43479.jpg"
+				
+					data-src="https://images.nrc.nl/_zpPtc8ezQ0pVj0DENJ5wWmUFFA=/86x0:1366x768/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data9744543-d43479.jpg|https://images.nrc.nl/oEeaUM_fSUgTBdbvMKiCIE0HM6g=/86x0:1366x768/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data9744543-d43479.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/oEeaUM_fSUgTBdbvMKiCIE0HM6g=/86x0:1366x768/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data9744543-d43479.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Tv-recensie</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Een misdaadprogramma zonder hijgerigheid</h3>
+											<div class="nmt-item__teaser">Er werden interessante dingen gezegd in de nieuwe misdaadtalkshow De Raadkamer. Het was vooraf wel de vraag hoe lang de presentator Peter R. de Vries de deskundige Peter R. de Vries in toom zou weten te houden.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+
+				</ul>
+			</section>
+
+			
+				<a href="/sectie/tech-media/" class="block__more block--theme-list__more block--None__more">
+					Meer Tech en Media
+				</a>
+			
+
+		</div>
+	</div>
+
+
+
+
+	<div class="block--theme-list block--None flexfloat__item" data-track-block-click="Sport">
+		<div class="block--theme-list__inner block--None__inner">
+
+			<section class="block--theme-list__section block--theme-list__section--type-None block--label-None" data-type="None">
+				<h4 class="block--theme-list__heading">
+					
+						<a href="/sectie/sport/">
+							Sport
+						</a>
+					
+				</h4>
+				<ul class="block--theme-list__items">
+
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/04/excelsior-klein-wonder-van-de-eredivisie-a1594411" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/wBCybW214Qnm-AGylr97Cdb1l2w=/0x53:4000x2453/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26029467-8cf52f.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/wBCybW214Qnm-AGylr97Cdb1l2w=/0x53:4000x2453/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26029467-8cf52f.jpg|https://images.nrc.nl/34uWFHrDCWFsl4Re3yzBqicXHrM=/0x53:4000x2453/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26029467-8cf52f.jpg"
+				
+					data-src="https://images.nrc.nl/34uWFHrDCWFsl4Re3yzBqicXHrM=/0x53:4000x2453/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26029467-8cf52f.jpg|https://images.nrc.nl/w8N2vdZoPNSBM-ljCskUTaKeWho=/0x53:4000x2453/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26029467-8cf52f.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/w8N2vdZoPNSBM-ljCskUTaKeWho=/0x53:4000x2453/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26029467-8cf52f.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Voetbal</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Excelsior, klein wonder van de eredivisie</h3>
+											<div class="nmt-item__teaser">Excelsior is zijn imago van oud-papierclub ontgroeid: een stabiele middenmoter en een modern bedrijf met ruim zestig werknemers. </div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/04/kickboksen-kan-nog-niet-zonder-hari-a1594388" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/5GHYB5rUlEjnBbNAghjvaZSNzDA=/0x333:3500x2433/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024368-df879e.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/5GHYB5rUlEjnBbNAghjvaZSNzDA=/0x333:3500x2433/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024368-df879e.jpg|https://images.nrc.nl/VlFur5OZuJ5_pkDzWEfNqp7o6fs=/0x333:3500x2433/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024368-df879e.jpg"
+				
+					data-src="https://images.nrc.nl/VlFur5OZuJ5_pkDzWEfNqp7o6fs=/0x333:3500x2433/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024368-df879e.jpg|https://images.nrc.nl/993KxwsHORjloX6Cjdj9U7j4FAo=/0x333:3500x2433/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024368-df879e.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/993KxwsHORjloX6Cjdj9U7j4FAo=/0x333:3500x2433/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024368-df879e.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Vechtsport</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Kickboksen kan nog niet zonder Hari</h3>
+											<div class="nmt-item__teaser">Ahoy liep vol voor Badr Hari. De vechter met het negatieve imago heeft een „verschrikkelijk hoge entertainmentwaarde”. </div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/04/pec-zwolle-en-vvv-houden-elkaar-in-evenwicht-1-1-a1594354" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6000564493367203" style="padding-bottom: 60.00564493367203%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/fMLDMxFHjDIHZpt-HOY1g7oWJ3E=/0x0:3543x2126/160x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-56233021.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/fMLDMxFHjDIHZpt-HOY1g7oWJ3E=/0x0:3543x2126/160x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-56233021.jpg|https://images.nrc.nl/A50-qFCZ3V3cpiHwmKUBJ72ZqAs=/0x0:3543x2126/320x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-56233021.jpg"
+				
+					data-src="https://images.nrc.nl/A50-qFCZ3V3cpiHwmKUBJ72ZqAs=/0x0:3543x2126/320x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-56233021.jpg|https://images.nrc.nl/VXM0RvUST5_hH3cqhQ2p-MteNk0=/0x0:3543x2126/640x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-56233021.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/VXM0RvUST5_hH3cqhQ2p-MteNk0=/0x0:3543x2126/640x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/03/anp-56233021.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">Eredivisie</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">FC Twente en PEC gelijk, Ajax verliest, winst voor Sparta</h3>
+											<div class="nmt-item__teaser">De wedstrijd van FC Twente tegen FC Groningen en die van PEC Zwolle tegen VVV Venlo zijn zondag met 1-1 geëindigd. Ajax verloor van Vitesse, Sparta won van ADO Den Haag.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+						<li class="block--theme-list__item">
+							<div class="nmt-item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+								<div class="nmt-item__inner">
+									<a href="/nieuws/2018/03/04/gouden-slotdag-van-supervet-wk-a1594404" class="nmt-item__link">
+										
+											<div class="nmt-item__image-wrapper">
+												
+												
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+					data-lightbox-thumbnail="https://images.nrc.nl/9FLWAJ1QEmtFzRvITcGzZlzQ0EA=/0x0:4000x2400/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024983-735242.jpg"
+				
+				
+				
+					data-src-499="https://images.nrc.nl/9FLWAJ1QEmtFzRvITcGzZlzQ0EA=/0x0:4000x2400/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024983-735242.jpg|https://images.nrc.nl/75NVdfYG_pSmuaaiNDXCqGv7ZAM=/0x0:4000x2400/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024983-735242.jpg"
+				
+					data-src="https://images.nrc.nl/75NVdfYG_pSmuaaiNDXCqGv7ZAM=/0x0:4000x2400/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024983-735242.jpg|https://images.nrc.nl/7pAgq3ESiKHRDfb4gI5mDaV4FJk=/0x0:4000x2400/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024983-735242.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/7pAgq3ESiKHRDfb4gI5mDaV4FJk=/0x0:4000x2400/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data26024983-735242.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+											</div>
+										
+										<header class="nmt-item__content">
+											<h6 class="nmt-item__flag block--theme-list__flag">WK baanwielrennen</h6>
+											<h3 class="nmt-item__headline block--theme-list__headline">Gouden slotdag van ‘supervet’ WK</h3>
+											<div class="nmt-item__teaser">Kirsten Wild en Jeffrey Hoogland wonnen op de slotdag een gouden medaille. De succesvolste WK ooit waren „supervet”.</div>
+										</header>
+									</a>
+								</div>
+							</div>
+						</li>
+					
+
+				</ul>
+			</section>
+
+			
+				<a href="/sectie/sport/" class="block__more block--theme-list__more block--None__more">
+					Meer Sport
+				</a>
+			
+
+		</div>
+	</div>
+
+							</div>
+						
+
+					</div>
+
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block block--label-lifestyle block--has-label block--has-sidebar"
+	
+		id="/sectie/lifestyle/"
+		data-track-block-click="Lifestyle"
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout nmt-layout--sidebar-align-right rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							
+
+
+
+<div data-track-block-click="Lifestyle" class="block--label-lifestyle">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					<a href="https://www.nrc.nl/index/lifestyle/">Lifestyle</a>
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-3 flexfloat--block-standard">
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/05/supersuikerarm-a1594381" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6003372681281619" style="padding-bottom: 60.03372681281619%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/pJoqHrCSxobFPJYUNajAjgZt8P8=/0x342:1186x1054/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760605-b73d10.jpg|https://images.nrc.nl/gh2E55RlfIXPeYryqk-03h8f77A=/0x342:1186x1054/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760605-b73d10.jpg"
+				
+					data-src-320="https://images.nrc.nl/8Ez0V3p6y1f7cKnTF_r8pam9-8g=/0x342:1186x1054/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760605-b73d10.jpg|https://images.nrc.nl/pJoqHrCSxobFPJYUNajAjgZt8P8=/0x342:1186x1054/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760605-b73d10.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/pJoqHrCSxobFPJYUNajAjgZt8P8=/0x342:1186x1054/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25760605-b73d10.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Wat eten we?</h6>
+	
+
+	<h3 class="nmt-item__headline">Supersuikerarm</h3>
+
+	
+		<div class="nmt-item__teaser">Het ketogene dieet met veel vet en weinig, héél weinig suiker en zetmeel kent steeds meer enthousiaste aanhangers, zowel onder dieetgoeroes als artsen</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/reus-met-de-motoriek-van-een-ballerina-a1593971" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/uNcG44y4TJ82muHsX5binG9Pq0U=/0x442:4000x2842/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25716658-6cfefc.jpg|https://images.nrc.nl/hm98Vre707HjHmYS4-BuFsBNaG0=/0x442:4000x2842/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25716658-6cfefc.jpg"
+				
+					data-src-320="https://images.nrc.nl/uy3xHJe3ZHT2zHhmi-tbB76f35Q=/0x442:4000x2842/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25716658-6cfefc.jpg|https://images.nrc.nl/uNcG44y4TJ82muHsX5binG9Pq0U=/0x442:4000x2842/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25716658-6cfefc.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/uNcG44y4TJ82muHsX5binG9Pq0U=/0x442:4000x2842/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25716658-6cfefc.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Autorecensie</h6>
+	
+
+	<h3 class="nmt-item__headline">Waarom de  Stinger van Kia briljant is  (en niemand ’m koopt)</h3>
+
+	
+		<div class="nmt-item__teaser">Het ontwerp is goed, de techniek is briljant. Maar geen Nederlander zal hem kopen, schrijft Bas van Putten.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/03/revolutie-op-kousenvoeten-a1593970" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.5995717344753747" style="padding-bottom: 59.95717344753747%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/HZbu_cSrXUGBFXCx5VpmNKykkng=/0x0:467x280/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716331-0b1e62.jpg|https://images.nrc.nl/36KkQbHeCV8OV-1N6m3_v5c_Czw=/0x0:467x280/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716331-0b1e62.jpg"
+				
+					data-src="https://images.nrc.nl/36KkQbHeCV8OV-1N6m3_v5c_Czw=/0x0:467x280/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716331-0b1e62.jpg|https://images.nrc.nl/wajue8ZVyhyb6hUovco8PyzRoSs=/0x0:467x280/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716331-0b1e62.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/wajue8ZVyhyb6hUovco8PyzRoSs=/0x0:467x280/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25716331-0b1e62.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Over de tong</h6>
+	
+
+	<h3 class="nmt-item__headline">Revolutie op kousenvoeten</h3>
+
+	
+		<div class="nmt-item__teaser">Harold Hamersma ziet dat wijn uit Portugal een nadrukkelijkere rol krijgt.</div>
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+		<a href="https://www.nrc.nl/index/lifestyle/" class="block__more block__more--default-size">
+			Meer lifestyle
+		</a>
+	
+
+	
+
+	
+</div>
+
+						
+
+					</div>
+
+					
+						
+
+
+
+
+
+<div class="
+	nmt-layout__sidebar
+	block__sidebar
+	
+		nmt-layout__sidebar--has-ad
+		nmt-layout__sidebar--has-ad--bottom
+	
+	">
+
+	
+
+	
+
+	
+	
+	
+
+
+	
+
+	
+		
+			
+	<div class="banner banner--rectangle banner--rectangle-in-grid">
+		
+			<div class="banner__label"></div>
+		
+		<div class="banner__output"
+			
+				data-banner-position="rectangle"
+			
+			
+			
+			
+			
+			
+			
+		></div>
+	</div>
+
+		
+	
+
+	
+</div>
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="block block--label-onderaan block--has-label"
+	
+		id="/sectie/onderaan/"
+		data-track-block-click="Onderaan"
+	
+	>
+	<div class="block__inner">
+		<div class="block__news">
+			<div class="block__news__inner">
+
+				
+
+				<div class="nmt-layout has-no-nmt-layout-sidebar rows-container">
+
+					
+					
+					<div class="nmt-layout__main rows">
+
+						
+							
+
+
+
+<div data-track-block-click="Onderaan" class="block--label-onderaan">
+	
+		<header class="block__header">
+
+			<h3 class="block__label">
+				
+					Onderaan
+				
+			</h3>
+
+			
+
+		</header>
+	
+
+	<div class="flexfloat-wrapper">
+		<div class="flexfloat flexfloat--block-4 flexfloat--block-standard">
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/moet-ik-opendoen-als-de-bel-gaat-a1594264" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6001287830006439" style="padding-bottom: 60.012878300064386%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/OB_rkteoctzQ_ykRGEdKLBhqxE0=/0x1241:1553x2173/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25777480-8a133a.jpg|https://images.nrc.nl/7qoBHYl7IfyCfzGI7MmO8eVu6Jk=/0x1241:1553x2173/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25777480-8a133a.jpg"
+				
+					data-src-320="https://images.nrc.nl/PPa7Nv16jxveaR4CTJX9Qv-LIjk=/0x1241:1553x2173/320x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25777480-8a133a.jpg|https://images.nrc.nl/OB_rkteoctzQ_ykRGEdKLBhqxE0=/0x1241:1553x2173/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25777480-8a133a.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/OB_rkteoctzQ_ykRGEdKLBhqxE0=/0x1241:1553x2173/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/data25777480-8a133a.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Tekencolumn</h6>
+	
+
+	<h3 class="nmt-item__headline">Moet ik opendoen als de bel gaat?</h3>
+
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/los-2-a1593977" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+				
+				
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src="https://images.nrc.nl/adeXF8d1TVSI5uJdSZKNI45sivU=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/georginaverbaan0.jpg|https://images.nrc.nl/MX5Rz-Z81AQpE3stU7Ki3jybEao=/1280x768/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/georginaverbaan0.jpg"
+				
+					data-src-320="https://images.nrc.nl/kzVIE1DQiwz0ZSH4mrlaF8jFfX8=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/georginaverbaan0.jpg|https://images.nrc.nl/adeXF8d1TVSI5uJdSZKNI45sivU=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/georginaverbaan0.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/dU2uz8ipdHKQxQHHWQ4Kp5ih6IE=/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/georginaverbaan0.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Column Georgina Verbaan</h6>
+	
+
+	<h3 class="nmt-item__headline">Los</h3>
+
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 has-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/02/sjorriemorrie-a1594291" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.6" style="padding-bottom: 60.0%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/-AUpP3pGUCW0gHBlPZ7f71q8__8=/160x96/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/youpvanthek0.jpg|https://images.nrc.nl/Hpru5baGRhPWCmtwyfQff7WaVCI=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/youpvanthek0.jpg"
+				
+					data-src="https://images.nrc.nl/Hpru5baGRhPWCmtwyfQff7WaVCI=/320x192/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/youpvanthek0.jpg|https://images.nrc.nl/F8InfTe9eRxT4XxQBgsE1ARbO2M=/640x384/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/youpvanthek0.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/ZPGZKAumWiTtLCGFYt9GZlFn-P0=/640x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2018/03/youpvanthek0.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Column Youp van 't Hek</h6>
+	
+
+	<h3 class="nmt-item__headline">Sjorriemorrie</h3>
+
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+				
+				
+<div class="nmt-item flexfloat__item nmt-item--image-span-2 no-teaser has-image no-liveblog-ticker">
+	<div class="nmt-item__inner">
+		<a href="/nieuws/2018/03/03/fokke-sukke-a1594293" class="nmt-item__link">
+			
+
+			<div class="nmt-item__image-wrapper">
+				
+	
+	
+		
+			
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		<figure data-aspect="0.5999294408184865" style="padding-bottom: 59.992944081848655%" class="b-lazy__wrapper">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="b-lazy "
+				
+				
+				
+				
+					data-src-499="https://images.nrc.nl/dtMzCzW50VxuAMGCJIDKcDdqid8=/0x0:5669x3401/160x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25779196-8c7cb9.jpg|https://images.nrc.nl/XR1EZ1jP-o8nh3Yr36STEjClA_c=/0x0:5669x3401/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25779196-8c7cb9.jpg"
+				
+					data-src="https://images.nrc.nl/XR1EZ1jP-o8nh3Yr36STEjClA_c=/0x0:5669x3401/320x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25779196-8c7cb9.jpg|https://images.nrc.nl/pOS10GxsQz5VKT4LBfrnR997Qo0=/0x0:5669x3401/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25779196-8c7cb9.jpg"
+				/>
+
+				<noscript>
+					<img
+						style="max-width: 100%"
+						src="https://images.nrc.nl/pOS10GxsQz5VKT4LBfrnR997Qo0=/0x0:5669x3401/640x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data25779196-8c7cb9.jpg" />
+				</noscript>
+
+		</figure>
+	
+	
+			</div>
+
+			<header class="nmt-item__content">
+				
+	
+		<h6 class="nmt-item__flag">Cartoon</h6>
+	
+
+	<h3 class="nmt-item__headline">Fokke & Sukke</h3>
+
+	
+
+	
+
+	
+
+		
+
+
+			</header>
+		</a>
+	</div>
+</div>
+			
+		</div>
+	</div>
+
+	
+
+	
+
+	
+</div>
+
+						
+
+					</div>
+
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+
+		<div data-emailwall-holder></div>
+	</main>
+
+	
+		<section class="article-context">
+			<div class="nmt-layout article-context__inner">
+				<div class="nmt-layout__main">
+					
+				</div>
+			</div>
+		</section>
+	
+
+	
+		<footer class="footer">
+			<section class="footer__container">
+	<div class="footer__logo__container">
+		<a href="/" class="footer__logo bg-nrc-logo"></a>
+	</div>
+	<div class="flexfloat">
+		<div class="flexfloat__item flexfloat__item--span-1 footer__item">
+			<ul>
+				<li>Over NRC</li>
+				<li><a href="/over-ons/">Over ons</a></li>
+				<li><a href="/auteursrecht-databankrecht/">Auteursrecht</a></li>
+				<li><a href="/privacy-verklaring/">Privacyverklaring</a></li>
+				<li><a href="/leveringsvoorwaarden/">Leveringsvoorwaarden</a></li>
+				<li><a href="/cookies/">Cookies</a></li>
+				<li><a href="https://apps.nrc.nl/stijlboek/">Stijlboek</a></li>
+				<li><a href="/static/front/pdf/NRC-Code.pdf">NRC-Code (PDF)</a></li>
+			</ul>
+		</div>
+		<div class="flexfloat__item flexfloat__item--span-1 footer__item">
+			<ul>
+				<li>Mijn NRC</li>
+				<li><a href="https://www.nrc.nl/logmein">Inloggen</a></li>
+				<li><a href="https://login.nrc.nl/create?service=https://www.nrc.nl/logmein">Account aanmaken</a></li>
+				<li><a href="/digitaleeditie">Digitale editie</a></li>
+				<li class="footer__item--mijn-leeslijst"><a href="/profiel/leeslijst">Mijn leeslijst</a></li>
+				<li><a href="https://login.nrc.nl/login?service=https://service.nrc.nl/index.php%3Fmodule%3Dabonnement">Mijn abonnementen</a></li>
+				<li><a href="https://service.nrc.nl/">Service &amp; bezorging</a></li>
+
+			</ul>
+		</div>
+		<div class="flexfloat__item flexfloat__item--span-1 footer__item">
+			<ul>
+				<li><a href="/contact/">Contact</a></li>
+				<li><a href="/contact/">Redactie</a></li>
+				<li><a href="/opinie-contact/">Opinieredactie</a></li>
+				<li><a href="/contact/ombudsman/">De ombudsman</a></li>
+				<li><a href="/colofon/">Colofon</a></li>
+				<li><a href="http://www.nrcmedia.nl/adverteren/?utm_campaign=footer&amp;utm_source=nrc.nl">AdSales</a></li>
+				<li><a href="https://service.nrc.nl/">Klantenservice</a></li>
+				<li><a href="https://www.nrcmedia.nl/particulier/familieberichten/">Familieberichten</a></li>
+			</ul>
+		</div>
+		<div class="flexfloat__item flexfloat__item--span-1 footer__item">
+			<ul>
+				<li>NRC Websites</li>
+				<li><a href="https://www.nrcmedia.nl/">NRC Media</a></li>
+				<li><a href="https://www.nrc.nl/index/carriere/">NRC Carri&egrave;re</a></li>
+				<li><a href="http://nrclive.nl/">NRC Live</a></li>
+				<li><a href="https://nrcwebwinkel.nl?/utm_source=NRC_footer&amp;utm_medium=nrc.nl&amp;utm_content=tekstlink&amp;utm_campaign=footernrc">NRC Webwinkel</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
+<section class="footer__functions">
+	<aside class="socialbuttons">
+		<a href="/rss" class="inner rss">
+			<svg viewBox="0 0 80 80" width="44" height="44"><path d="M39 61h-8c0-11-9-20-19-19v-8c15 0 28 13 28 27zm6 0c0-18-15-33-33-33v-8c23 0 42 19 41 41z"/><circle cx="17.5" cy="55.5" r="5.7"/></svg>
+		</a>
+		<a href="https://twitter.com/nrc" class="inner twitter">
+			<svg viewBox="0 0 262 262" width="44" height="44"><path d="M201 91s-5 9-14 14c2 39-27 82-78 83-26 0-42-13-43-13s20 4 41-11c-21-1-26-19-26-20s6 2 13 0c-23-6-22-28-22-28s6 4 12 4c-21-16-9-37-8-37s19 27 57 29c-6-30 29-44 47-25 9-2 18-7 18-7s-3 10-13 15c8-1 16-4 16-4z"/></svg>
+		</a>
+		<a href="https://www.facebook.com/NRC" class="inner facebook">
+			<svg width="44" height="44" viewBox="0 0 900 900"><path d="M495 693h-90V469h-75v-87h75v-64c0-37 11-65 32-86 20-19 46-29 80-29 19 0 41 1 67 3v78h-47c-28 0-42 13-42 38v60h86l-11 87h-75v224z"/></svg>
+		</a>
+		<a href="https://instagram.com/nrcinbeeld/" class="inner instagram">
+			<svg viewBox="0 0 800 800" width="44" height="44"><path d="M400 299c-48 0-87 39-87 86s39 86 87 86 88-39 88-86-40-86-88-86zm169 53h-38c26 92-48 169-131 169s-156-78-130-169h-40v184c0 10 8 17 17 17h305c10 0 17-8 17-17V352zm-69-137c-10 0-20 10-20 20v47c0 10 10 20 20 20h49c10 0 20-10 20-20v-47c0-10-10-20-20-20h-49zm-262-48h325c30 0 56 26 56 56v325c0 30-26 56-56 56H238c-30 0-56-26-56-56V223c0-30 26-56 56-56z"/></svg>
+		</a>
+	</aside>
+	<a href="#">
+		<aside class="top"></aside>
+	</a>
+</section>
+		</footer>
+	
+
+	
+
+	
+	
+	<div class="banner banner--floorad ">
+		
+		<div class="banner__output"
+			
+				data-banner-position="floorad"
+			
+			
+			
+			
+			
+				data-req-visitor-state="logged-out"
+			
+			
+			
+		></div>
+	</div>
+
+
+	
+
+	
+		
+<script>
+	window.nmt = window.nmt || {};
+	nmt.splitCSSManifest = {'search-page.css': 'css/split/search-page.1134362181.css', 'native-xtr-article.css': 'css/split/native-xtr-article.1189331894.css', 'inbeeld-fullpage.css': 'css/split/inbeeld-fullpage.-781454357.css', 'native-xtr-overview.css': 'css/split/native-xtr-overview.1428387547.css', 'over-ons.css': 'css/split/over-ons.-1764109331.css', 'bigboard.css': 'css/split/bigboard.-1628964254.css', 'leeslijst.css': 'css/split/leeslijst.612782697.css', 'carriere-carousel.css': 'css/split/carriere-carousel.675125284.css', 'liveblog-slowblog.css': 'css/split/liveblog-slowblog.156628828.css', 'holleeder-overview.css': 'css/split/holleeder-overview.-425024402.css', 'paywall.css': 'css/split/paywall.-1579702779.css', 'emailwall.css': 'css/split/emailwall.1357081486.css', 'colors-guide.css': 'css/split/colors-guide.303174983.css', 'kindernamen.css': 'css/split/kindernamen.-1152574135.css', 'digitale-editie.css': 'css/split/digitale-editie.116802977.css', 'txt.css': 'css/split/txt.-632371697.css'};
+	webpackManifest = {'OverOns': 'js/chunks/OverOns.fcf9a2970.js', 'InBeeldFullpageScroller': 'js/chunks/InBeeldFullpageScroller.1dcd653c0.js', 'SearchPage': 'js/chunks/SearchPage.7bdb1bc64.js', 'hammerjs': 'js/chunks/hammerjs.1fa4dbdee.js', 'VideoPlayer': 'js/chunks/VideoPlayer.c9bfe43e5.js', 'Leeslijst': 'js/chunks/Leeslijst.a786e3864.js', 'Kindernamen': 'js/chunks/Kindernamen.d5876788a.js', 'main': 'js/chunks/main.106e913ea.js', 'InBeeldFullpageScrollerObama': 'js/chunks/InBeeldFullpageScrollerObama.a991ec9de.js', 'CarriereCarousel': 'js/chunks/CarriereCarousel.b57c368f8.js', 'vendor': 'js/chunks/vendor.f6f17ed3c.js', 'Liveblog': 'js/chunks/Liveblog.987026355.js', 'de': 'js/chunks/de.42c26fced.js', 'DeArticleSidebar': 'js/chunks/DeArticleSidebar.7249c6c21.js', 'BigBoard': 'js/chunks/BigBoard.97f8a0b2e.js'};
+	!function(e){function n(r){if(t[r])return t[r].exports;var o=t[r]={i:r,l:!1,exports:{}};return e[r].call(o.exports,o,o.exports,n),o.l=!0,o.exports}var r=window.webpackJsonp;window.webpackJsonp=function(t,i,c){for(var u,a,f,l=0,s=[];l<t.length;l++)a=t[l],o[a]&&s.push(o[a][0]),o[a]=0;for(u in i)Object.prototype.hasOwnProperty.call(i,u)&&(e[u]=i[u]);for(r&&r(t,i,c);s.length;)s.shift()();if(c)for(l=0;l<c.length;l++)f=n(n.s=c[l]);return f};var t={},o={runtime:0};n.e=function(e){function r(){u.onerror=u.onload=null,clearTimeout(a);var n=o[e];0!==n&&(n&&n[1](new Error("Loading chunk "+e+" failed.")),o[e]=void 0)}var t=o[e];if(0===t)return new Promise(function(e){e()});if(t)return t[2];var i=new Promise(function(n,r){t=o[e]=[n,r]});t[2]=i;var c=document.getElementsByTagName("head")[0],u=document.createElement("script");u.type="text/javascript",u.charset="utf-8",u.async=!0,u.timeout=12e4,n.nc&&u.setAttribute("nonce",n.nc),u.src=n.p+window.webpackManifest[e];var a=setTimeout(r,12e4);return u.onerror=u.onload=r,c.appendChild(u),i},n.m=e,n.c=t,n.d=function(e,r,t){n.o(e,r)||Object.defineProperty(e,r,{configurable:!1,enumerable:!0,get:t})},n.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(r,"a",r),r},n.o=function(e,n){return Object.prototype.hasOwnProperty.call(e,n)},n.p="/static/front/build/",n.oe=function(e){throw console.error(e),e}}([]);
+</script>
+<script src="/static/front/build/js/vendor.f6f17ed3c.js"></script>
+<script src="/static/front/build/js/main.106e913ea.js"></script>
+	
+
+	
+	
+		
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"url": "https://www.nrc.nl/",
+	"potentialAction": {
+		"@type": "SearchAction",
+		"target": "https://www.nrc.nl/search/?q={search_term_string}",
+		"query-input": "required name=search_term_string"
+	}
+}
+</script>
+		
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Organization",
+	"name": "NRC",
+	"url": "https://www.nrc.nl/",
+	"logo": "https://www.nrc.nl/static/front/img/social/default-og-image.png",
+	"sameAs":[
+		"https://twitter.com/nrc",
+		"https://www.facebook.com/NRC",
+		"https://instagram.com/nrcinbeeld/"
+	]
+}
+</script>
+	
+
+	
+
+</body>
+</html>
