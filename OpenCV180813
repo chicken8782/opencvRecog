@@ -1,0 +1,35 @@
+#!/usr/bin/env python
+# -*- coding: utf8 -*-
+# jupyterでグラフ描画をする場合これがいる
+# %matplotlib inline
+import cv2
+import numpy as np
+from matplotlib import pyplot as plt
+
+print("hey")
+#画像のパス
+IMAGE_PATH = 'lena_std.tiff'
+OUT_IMAGE_PATH = '~/Python/OpenCV/outputs/'
+
+#画像を読み込む 第二引数は1:RGB, 0:GrayScale, -1:RGBA
+img = cv2.imread(IMAGE_PATH, 0)
+
+plt.imshow(img, cmap = 'gray', interpolation = 'bicubic')
+#plt.xticks([]), plt.yticks([])
+#plt.show()
+
+#width* height *(B,G,R)の三重配列
+img = np.zeros((512, 512, 3), np.uint8)
+
+#線を引く
+img = cv2.line(img, (0,0), (511, 511), (255,0,0), 5)
+
+#matplotlibは(R,G,B)で解釈するので、変換して渡す
+plt.imshow(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
+#
+
+# 長方形 args: array, ↖︎, ↘︎, (B,G,R), thickness
+img = cv2.rectangle(img, (350, 350), (400, 500), (0,155,155), 10)
+
+
+plt.show()
